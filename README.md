@@ -7,7 +7,7 @@ This is a repository that contains a set of solved algorithms from different sou
 
 ##  Contributors
 
-[Sergi Justiniano](https://github.com/homell100) :start: :start:
-[Alba Guzman](https://github.com/aguzsol) :start:
-[Silvia Gutierrez](https://github.com/silviagb2) :start:
+[Sergi Justiniano](https://github.com/homell100) :star: :star:
+[Alba Guzman](https://github.com/aguzsol) :star:
+[Silvia Gutierrez](https://github.com/silviagb2) :star:
 
