@@ -4,6 +4,7 @@ This is a repository that contains a set of solved algorithms from different sou
 ## List of algorithms
 
 1. [Title Case a Sentence](https://www.freecodecamp.org/learn/javascript-algorithms-and-data-structures/basic-algorithm-scripting/title-case-a-sentence)
+2. [Repeat a String](https://www.freecodecamp.org/learn/javascript-algorithms-and-data-structures/basic-algorithm-scripting/repeat-a-string-repeat-a-string)
 
 ##  Contributors
 
