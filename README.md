@@ -11,5 +11,5 @@ This is a repository that contains a set of solved algorithms from different sou
 [Sergi Justiniano](https://github.com/homell100) :star: :star:  
 [Alba Guzman](https://github.com/aguzsol) :star:  
 [Silvia Gutierrez](https://github.com/silviagb2) :star:  
-[Diego Lajusticia](https://github.com/diegolajus) :start:
+[Diego Lajusticia](https://github.com/diegolajus) :star:
 
