@@ -13,4 +13,5 @@ This is a repository that contains a set of solved algorithms from different sou
 [Alba Guzman](https://github.com/aguzsol) 
 [Silvia Gutierrez](https://github.com/silviagb2)
 [Claudia Ballano](https://github.com/claudiaballano)
+[Diego Lajusticia](https://github.com/diegolajus)
 
