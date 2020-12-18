@@ -5,10 +5,12 @@ This is a repository that contains a set of solved algorithms from different sou
 
 1. [Title Case a Sentence](https://www.freecodecamp.org/learn/javascript-algorithms-and-data-structures/basic-algorithm-scripting/title-case-a-sentence)
 2. [Repeat a String](https://www.freecodecamp.org/learn/javascript-algorithms-and-data-structures/basic-algorithm-scripting/repeat-a-string-repeat-a-string)
+3. [Truncate a String](https://www.freecodecamp.org/learn/javascript-algorithms-and-data-structures/basic-algorithm-scripting/truncate-a-string)
 
 ##  Contributors
 
-[Sergi Justiniano](https://github.com/homell100) :star: :star:  
-[Alba Guzman](https://github.com/aguzsol) :star:  
-[Silvia Gutierrez](https://github.com/silviagb2) :star:  
+[Sergi Justiniano](https://github.com/homell100) 
+[Alba Guzman](https://github.com/aguzsol) 
+[Silvia Gutierrez](https://github.com/silviagb2)
+[Claudia Ballano](https://github.com/claudiaballano)
 
