@@ -10,10 +10,10 @@ This is a repository that contains a set of solved algorithms from different sou
 
 ##  Contributors
 
-[Sergi Justiniano](https://github.com/homell100) 
-[Alba Guzman](https://github.com/aguzsol) 
-[Silvia Gutierrez](https://github.com/silviagb2)
-[Claudia Ballano](https://github.com/claudiaballano)
-[Diego Lajusticia](https://github.com/diegolajus)
-[Didac Pérez](https://github.com/didac3141592)
+[Sergi Justiniano](https://github.com/homell100)   
+[Alba Guzman](https://github.com/aguzsol)   
+[Silvia Gutierrez](https://github.com/silviagb2)  
+[Claudia Ballano](https://github.com/claudiaballano)  
+[Diego Lajusticia](https://github.com/diegolajus)  
+[Didac Pérez](https://github.com/didac3141592)  
 
