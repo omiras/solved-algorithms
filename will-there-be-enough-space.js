@@ -9,9 +9,19 @@
 // wait is the number of people waiting to get on to the bus excluding the driver.
 // If there is enough space, return 0, and if there isn't, return the number of passengers he can't take.
 
-function enough(cap, on, wait) {
-    
+function isThereEnoughSpace(cap, on, wait) { 
+    return cap >= on + wait ? 0 : wait - (cap - on); 
 }
+
+
+function isThereEnoughSpaceLong(cap, on, wait) {
+    if(cap >= on + wait) {
+        return 0;
+    }
+    return (wait-(cap-on));
+}
+
+
 
 console.assert(enough(10, 5, 5) == 0, `// 0, He can fit all 5 passengers
 `)

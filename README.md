@@ -6,6 +6,7 @@ This is a repository that contains a set of solved algorithms from different sou
 1. [Title Case a Sentence](https://www.freecodecamp.org/learn/javascript-algorithms-and-data-structures/basic-algorithm-scripting/title-case-a-sentence)
 2. [Repeat a String](https://www.freecodecamp.org/learn/javascript-algorithms-and-data-structures/basic-algorithm-scripting/repeat-a-string-repeat-a-string)
 3. [Truncate a String](https://www.freecodecamp.org/learn/javascript-algorithms-and-data-structures/basic-algorithm-scripting/truncate-a-string)
+4. [Will there be enough space?](https://www.codewars.com/kata/5875b200d520904a04000003)
 
 ##  Contributors
 
@@ -14,4 +15,5 @@ This is a repository that contains a set of solved algorithms from different sou
 [Silvia Gutierrez](https://github.com/silviagb2)
 [Claudia Ballano](https://github.com/claudiaballano)
 [Diego Lajusticia](https://github.com/diegolajus)
+[Didac Pérez](https://github.com/didac3141592)
 
