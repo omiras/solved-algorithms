@@ -19,7 +19,7 @@ function sumAll(arr) {
 }
 sumAll([1, 4]);
 
-// Utilizando el operador 'rest' y Math.max, Math.min
+// Utilizando el operador 'spread' y Math.max, Math.min
 
 // function sumAll(arr) {
 //     let lowerIndex = Math.min(...arr)
