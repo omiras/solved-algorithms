@@ -8,6 +8,7 @@ This is a repository that contains a set of solved algorithms from different sou
 3. [Truncate a String](https://www.freecodecamp.org/learn/javascript-algorithms-and-data-structures/basic-algorithm-scripting/truncate-a-string)
 4. [Will there be enough space?](https://www.codewars.com/kata/5875b200d520904a04000003)
 4. [Cat and Mouse 2D](https://www.codewars.com/kata/57f8842367c96a89dc00018e)
+5. [Cat and Dog Harder Version](https://www.codewars.com/kata/cat-and-mouse-harder-version)
 ##  Contributors
 
 [Sergi Justiniano](https://github.com/homell100)   
@@ -16,4 +17,5 @@ This is a repository that contains a set of solved algorithms from different sou
 [Claudia Ballano](https://github.com/claudiaballano)  
 [Diego Lajusticia](https://github.com/diegolajus)  
 [Didac Pérez](https://github.com/didac3141592)  
+[Eduard Garcia](https://github.com/GoatBass/)
 
