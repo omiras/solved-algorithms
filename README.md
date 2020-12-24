@@ -19,4 +19,5 @@ This is a repository that contains a set of solved algorithms from different sou
 [Didac Pérez](https://github.com/didac3141592)  
 [Eduard Garcia](https://github.com/GoatBass/)
 [Jesús Calatayud](https://github.com/JesusCalatayud)
+[Júlia Martinez](https://github.com/juliverd59)
 
