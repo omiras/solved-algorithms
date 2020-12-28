@@ -9,6 +9,8 @@ This is a repository that contains a set of solved algorithms from different sou
 4. [Will there be enough space?](https://www.codewars.com/kata/5875b200d520904a04000003)
 4. [Cat and Mouse 2D](https://www.codewars.com/kata/57f8842367c96a89dc00018e)
 5. [Cat and Dog Harder Version](https://www.codewars.com/kata/cat-and-mouse-harder-version)
+6. [Find the Capitals](https://www.codewars.com/kata/53573877d5493b4d6e00050c/train/javascript)
+
 ##  Contributors
 
 [Sergi Justiniano](https://github.com/homell100)   
@@ -19,4 +21,5 @@ This is a repository that contains a set of solved algorithms from different sou
 [Didac Pérez](https://github.com/didac3141592)  
 [Eduard Garcia](https://github.com/GoatBass/)
 [Jesús Calatayud](https://github.com/JesusCalatayud)
+[Lenny Cala](https://github.com/LennyCC)
 
