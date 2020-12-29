@@ -10,6 +10,7 @@ This is a repository that contains a set of solved algorithms from different sou
 4. [Cat and Mouse 2D](https://www.codewars.com/kata/57f8842367c96a89dc00018e)
 5. [Cat and Dog Harder Version](https://www.codewars.com/kata/cat-and-mouse-harder-version)
 6. [Find the Capitals](https://www.codewars.com/kata/53573877d5493b4d6e00050c/train/javascript)
+7. [Shortest Word](https://www.codewars.com/kata/57cebe1dc6fdc20c57000ac9)
 
 ##  Contributors
 
@@ -23,4 +24,5 @@ This is a repository that contains a set of solved algorithms from different sou
 [Jesús Calatayud](https://github.com/JesusCalatayud)
 [Júlia Martinez](https://github.com/juliverd59)
 [Lenny Cala](https://github.com/LennyCC)
+[Marc Bellido](https://github.com/mbellydo)
 
