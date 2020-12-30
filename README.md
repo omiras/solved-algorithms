@@ -11,6 +11,7 @@ This is a repository that contains a set of solved algorithms from different sou
 5. [Cat and Dog Harder Version](https://www.codewars.com/kata/cat-and-mouse-harder-version)
 6. [Find the Capitals](https://www.codewars.com/kata/53573877d5493b4d6e00050c/train/javascript)
 7. [Shortest Word](https://www.codewars.com/kata/57cebe1dc6fdc20c57000ac9)
+8. [Good vs Evil](https://www.codewars.com/kata/52761ee4cffbc69732000738)
 
 ##  Contributors
 
@@ -25,4 +26,5 @@ This is a repository that contains a set of solved algorithms from different sou
 [Júlia Martinez](https://github.com/juliverd59)
 [Lenny Cala](https://github.com/LennyCC)
 [Marc Bellido](https://github.com/mbellydo)
+[Maria Canals](https://github.com/maria-canals)
 
