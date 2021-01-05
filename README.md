@@ -30,7 +30,7 @@ This is a repository that contains a set of solved algorithms from different sou
 [Marc Bellido](https://github.com/mbellydo)  
 [Maria Canals](https://github.com/maria-canals)  
 [Oscar Farré](https://github.com/wildkur)  
-[Pedro Ninci](https://github.com/pppeedrito)
+[Pedro Ninci](https://github.com/pppeedrito)  
 [Sergi Justiniano](https://github.com/homell100)  
 [Silvia Gutierrez](https://github.com/silviagb2)  
 [Xiande Qiu](https://github.com/Xiande-zx)
