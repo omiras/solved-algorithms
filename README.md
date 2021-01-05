@@ -1,5 +1,6 @@
 # Set of solved algorithms
-This is a repository that contains a set of solved algorithms from different sources. This goal has been accomplished with the effort of the members of the [SINGULARS](https://www.pimec.org/ca/institucio/sala-premsa/notes-premsa/pimec-inicia-nous-projectes-dinsercio-laboral-joves) project. 
+
+This is a repository that contains a set of solved algorithms from different sources. This goal has been accomplished with the effort of the members of the [SINGULARS](https://www.pimec.org/ca/institucio/sala-premsa/notes-premsa/pimec-inicia-nous-projectes-dinsercio-laboral-joves) project.
 
 ## List of algorithms
 
@@ -16,8 +17,7 @@ This is a repository that contains a set of solved algorithms from different sou
 11. [Check Champion League winners](https://www.codewars.com/kata/581b30af1ef8ee6aea0015b9/)
 12. [They're good dogs](https://www.codewars.com/kata/5965144da82d479517000001/)
 
-
-##  Contributors
+## Contributors
 
 [Alba Guzman](https://github.com/aguzsol)  
 [Claudia Ballano](https://github.com/claudiaballano)  
