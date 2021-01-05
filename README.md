@@ -14,6 +14,8 @@ This is a repository that contains a set of solved algorithms from different sou
 9. [Good vs Evil](https://www.codewars.com/kata/52761ee4cffbc69732000738)
 10. [Check if a poker hand is a flush](https://www.codewars.com/kata/5acbc3b3481ebb23a400007d/)
 11. [Check Champion League winners](https://www.codewars.com/kata/581b30af1ef8ee6aea0015b9/)
+12. [They're good dogs](https://www.codewars.com/kata/5965144da82d479517000001/)
+
 
 ##  Contributors
 
@@ -31,3 +33,4 @@ This is a repository that contains a set of solved algorithms from different sou
 [Pedro Ninci](https://github.com/pppeedrito)
 [Sergi Justiniano](https://github.com/homell100)  
 [Silvia Gutierrez](https://github.com/silviagb2)  
+[Xiande Qiu](https://github.com/Xiande-zx)
