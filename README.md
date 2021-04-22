@@ -17,6 +17,8 @@ This is a repository that contains a set of solved algorithms from different sou
 11. [Check Champion League winners](https://www.codewars.com/kata/581b30af1ef8ee6aea0015b9/)
 12. [They're good dogs](https://www.codewars.com/kata/5965144da82d479517000001/)
 13. [Padded Numbers](https://www.codewars.com/kata/51c89385ee245d7ddf000001/train/javascript)
+14. [Find longest words](https://www.codewars.com/kata/5697fb83f41965761f000052
+)
 
 ## Contributors
 
@@ -25,6 +27,7 @@ This is a repository that contains a set of solved algorithms from different sou
 [Diego Lajusticia](https://github.com/diegolajus)  
 [Didac Pérez](https://github.com/didac3141592)  
 [Eduard Garcia](https://github.com/GoatBass/)  
+[Fran Ariño](https://github.com/fraanfx)
 [Jesús Calatayud](https://github.com/JesusCalatayud)  
 [Júlia Martinez](https://github.com/juliverd59)  
 [Lenny Cala](https://github.com/LennyCC)  

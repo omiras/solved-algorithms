@@ -19,7 +19,7 @@ function filterLongWords(sentence, n) {
      console.log(filteredWords)
     return filteredWords;
   }
-filterLongWords("The quick brown fox jumps over the lazy dog", 4) 
+//filterLongWords("The quick brown fox jumps over the lazy dog", 4) 
 /*
 //Opcion 2
 function filterLongWords(sentence, n){
@@ -35,3 +35,15 @@ function filterLongWords(sentence, n){
 }
 filterLongWords2("The quick brown fox jumps over the lazy dog", 4) 
 */
+
+/**
+ * 1. Aplicamos split a 'sentence', y obtenemos un array de tantas posiciones como palabras
+ * 2. Filtramos dicho array para quedarnos solo con las palabras que cumplen que su tamaño es mayor a 'n'
+ */
+function filterLongWords3(sentence , numCharacters) {
+  return sentence.split(' ').filter(word => {
+    return word.length > numCharacters
+  })
+}
+
+console.log(filterLongWords3("The quick brown fox jumps over the lazy dog", 4))
