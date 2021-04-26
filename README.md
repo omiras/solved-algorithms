@@ -19,11 +19,12 @@ This is a repository that contains a set of solved algorithms from different sou
 13. [Padded Numbers](https://www.codewars.com/kata/51c89385ee245d7ddf000001/train/javascript)
 14. [Find longest words](https://www.codewars.com/kata/5697fb83f41965761f000052)
 15. [Magic The Gathering #1: Creatures](https://www.codewars.com/kata/567af2c8b46252f78400004d/train/javascript)
+16. [Stock Quotes](https://www.codewars.com/kata/597ef546ee48603f7a000057)
 
 ## Contributors
 
 [Alba Guzman](https://github.com/aguzsol)  
-[Claudia Ballano](https://github.com/claudiaballano)  
+[Claudia Ballano - 16](https://github.com/claudiaballano)  
 [Diego Lajusticia](https://github.com/diegolajus)  
 [Didac Pérez](https://github.com/didac3141592)  
 [Eduard Garcia](https://github.com/GoatBass/)  
