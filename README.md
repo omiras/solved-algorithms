@@ -38,5 +38,5 @@ This is a repository that contains a set of solved algorithms from different sou
 [Pedro Ninci](https://github.com/pppeedrito)  
 [Sergi Justiniano](https://github.com/homell100)  
 [Silvia Gutierrez](https://github.com/silviagb2)  
-[Xiande Qiu](https://github.com/Xiande-zx)
+[Xiande Qiu](https://github.com/Xiande-zx)  
 [Carlos Marruedo - 15](https://github.com/CarlosMarruedo)
