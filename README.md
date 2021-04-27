@@ -20,11 +20,14 @@ This is a repository that contains a set of solved algorithms from different sou
 14. [Find longest words](https://www.codewars.com/kata/5697fb83f41965761f000052)
 15. [Magic The Gathering #1: Creatures](https://www.codewars.com/kata/567af2c8b46252f78400004d/train/javascript)
 16. [Stock Quotes](https://www.codewars.com/kata/597ef546ee48603f7a000057)
+17. [Which are in?](https://www.codewars.com/kata/550554fd08b86f84fe000a58/train/javascript)
 
 ## Contributors
 
-[Alba Guzman](https://github.com/aguzsol)  
-[Claudia Ballano - 16](https://github.com/claudiaballano)  
+[Alba Guzman](https://github.com/aguzsol)
+[Carlos Marruedo - 15](https://github.com/CarlosMarruedo)
+[Claudia Ballano - 16](https://github.com/claudiaballano)
+[Daniel Ruiz - 17](https://github.com/DanielRS2219)  
 [Diego Lajusticia](https://github.com/diegolajus)  
 [Didac Pérez](https://github.com/didac3141592)  
 [Eduard Garcia](https://github.com/GoatBass/)  
@@ -39,4 +42,4 @@ This is a repository that contains a set of solved algorithms from different sou
 [Sergi Justiniano](https://github.com/homell100)  
 [Silvia Gutierrez](https://github.com/silviagb2)  
 [Xiande Qiu](https://github.com/Xiande-zx)  
-[Carlos Marruedo - 15](https://github.com/CarlosMarruedo)
+
