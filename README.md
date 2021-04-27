@@ -26,7 +26,7 @@ This is a repository that contains a set of solved algorithms from different sou
 
 [Alba Guzman](https://github.com/aguzsol) 
 [Carlos Marruedo - 15](https://github.com/CarlosMarruedo) 
-[Claudia Ballano - 16](https://github.com/claudiaballano) 
+[Claudia Ballano - 16](https://github.com/claudiaballano)  
 [Daniel Ruiz - 17](https://github.com/DanielRS2219)  
 [Diego Lajusticia](https://github.com/diegolajus)  
 [Didac Pérez](https://github.com/didac3141592)  
