@@ -21,6 +21,7 @@ This is a repository that contains a set of solved algorithms from different sou
 15. [Magic The Gathering #1: Creatures](https://www.codewars.com/kata/567af2c8b46252f78400004d/train/javascript)
 16. [Stock Quotes](https://www.codewars.com/kata/597ef546ee48603f7a000057)
 17. [Which are in?](https://www.codewars.com/kata/550554fd08b86f84fe000a58/train/javascript)
+18. [Longest prefix](https://leetcode.com/problems/longest-common-prefix/)
 
 ## Contributors
 
@@ -33,6 +34,7 @@ This is a repository that contains a set of solved algorithms from different sou
 [Eduard Garcia](https://github.com/GoatBass/)  
 [Fran Ariño](https://github.com/fraanfx)
 [Jesús Calatayud](https://github.com/JesusCalatayud)  
+[Kevin Salcedo - 18](https://github.com/kevinsalcedoUab)
 [Júlia Martinez](https://github.com/juliverd59)  
 [Lenny Cala](https://github.com/LennyCC)  
 [Marc Bellido](https://github.com/mbellydo)  
