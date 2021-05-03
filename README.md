@@ -22,6 +22,7 @@ This is a repository that contains a set of solved algorithms from different sou
 16. [Stock Quotes](https://www.codewars.com/kata/597ef546ee48603f7a000057)
 17. [Which are in?](https://www.codewars.com/kata/550554fd08b86f84fe000a58/train/javascript)
 18. [Longest prefix](https://leetcode.com/problems/longest-common-prefix/)
+19. [Plus one](https://leetcode.com/problems/plus-one/)
 
 ## Contributors
 
@@ -38,10 +39,9 @@ This is a repository that contains a set of solved algorithms from different sou
 [Júlia Martinez](https://github.com/juliverd59)  
 [Lenny Cala](https://github.com/LennyCC)  
 [Marc Bellido](https://github.com/mbellydo)  
-[Maria Canals](https://github.com/maria-canals)  
+[Maria Canals - 19](https://github.com/maria-canals)  
 [Oscar Farré](https://github.com/wildkur)  
 [Pedro Ninci](https://github.com/pppeedrito)  
 [Sergi Justiniano](https://github.com/homell100)  
 [Silvia Gutierrez](https://github.com/silviagb2)  
-[Xiande Qiu](https://github.com/Xiande-zx)  
-
+[Xiande Qiu](https://github.com/Xiande-zx)
