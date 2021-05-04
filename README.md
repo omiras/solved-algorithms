@@ -23,6 +23,7 @@ This is a repository that contains a set of solved algorithms from different sou
 17. [Which are in?](https://www.codewars.com/kata/550554fd08b86f84fe000a58/train/javascript)
 18. [Longest prefix](https://leetcode.com/problems/longest-common-prefix/)
 19. [Plus one](https://leetcode.com/problems/plus-one/)
+20. [Catch The Thief](https://www.codewars.com/kata/5954584610080b7252000003/train/javascript)
 
 ## Contributors
 
@@ -37,6 +38,7 @@ This is a repository that contains a set of solved algorithms from different sou
 [Jesús Calatayud](https://github.com/JesusCalatayud)  
 [Kevin Salcedo - 18](https://github.com/kevinsalcedoUab)
 [Júlia Martinez](https://github.com/juliverd59)  
+[Laia Guillén - 20](https://github.com/laiagc892)
 [Lenny Cala](https://github.com/LennyCC)  
 [Marc Bellido](https://github.com/mbellydo)  
 [Maria Canals - 19](https://github.com/maria-canals)  
