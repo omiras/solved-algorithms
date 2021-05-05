@@ -42,6 +42,7 @@ This is a repository that contains a set of solved algorithms from different sou
 [Lenny Cala](https://github.com/LennyCC)  
 [Marc Bellido](https://github.com/mbellydo)  
 [Maria Canals - 19](https://github.com/maria-canals)  
+[Ricardo Churrión - 20](https://github.com/rachurion)
 [Oscar Farré](https://github.com/wildkur)  
 [Pedro Ninci](https://github.com/pppeedrito)  
 [Sergi Justiniano](https://github.com/homell100)  
