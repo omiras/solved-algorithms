@@ -25,6 +25,9 @@ This is a repository that contains a set of solved algorithms from different sou
 19. [Plus one](https://leetcode.com/problems/plus-one/)
 20. [Catch The Thief](https://www.codewars.com/kata/5954584610080b7252000003/train/javascript)
 
+## List of algorithms with TDD
+1. [Reversed Words](https://www.codewars.com/kata/51c8991dee245d7ddf00000e)
+
 ## Contributors
 
 [Alba Guzman](https://github.com/aguzsol)  
