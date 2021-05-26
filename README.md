@@ -24,6 +24,7 @@ This is a repository that contains a set of solved algorithms from different sou
 18. [Longest prefix](https://leetcode.com/problems/longest-common-prefix/)
 19. [Plus one](https://leetcode.com/problems/plus-one/)
 20. [Catch The Thief](https://www.codewars.com/kata/5954584610080b7252000003/train/javascript)
+21. [Greet Developers](https://www.codewars.com/kata/58279e13c983ca4a2a00002a/train/javascript)
 
 ## List of algorithms with TDD
 1. [Reversed Words](https://www.codewars.com/kata/51c8991dee245d7ddf00000e)
@@ -38,6 +39,7 @@ This is a repository that contains a set of solved algorithms from different sou
 [Didac Pérez](https://github.com/didac3141592)  
 [Eduard Garcia](https://github.com/GoatBass/)  
 [Fran Ariño](https://github.com/fraanfx)  
+[Ignacio Spadavecchia](https://github.com/Ignacio-Spadavecchia)
 [Jesús Calatayud](https://github.com/JesusCalatayud)    
 [Kevin Salcedo - 18](https://github.com/kevinsalcedoUab)  
 [Júlia Martinez](https://github.com/juliverd59)  
