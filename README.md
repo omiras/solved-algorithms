@@ -26,6 +26,7 @@ This is a repository that contains a set of solved algorithms from different sou
 20. [Catch The Thief](https://www.codewars.com/kata/5954584610080b7252000003/train/javascript)
 21. [Greet Developers](https://www.codewars.com/kata/58279e13c983ca4a2a00002a/train/javascript)
 22. [Anagram](https://leetcode.com/explore/interview/card/top-interview-questions-easy/127/strings/882/)
+23. [Two Sum](https://leetcode.com/problems/two-sum/)
 
 ## List of algorithms with TDD
 1. [Reversed Words](https://www.codewars.com/kata/51c8991dee245d7ddf00000e)
@@ -33,6 +34,7 @@ This is a repository that contains a set of solved algorithms from different sou
 ## Contributors
 
 [Alba Guzman](https://github.com/aguzsol)
+[Ariel Neme](https://github.com/ArielFabianN)
 [Arnau Mas - 22](https://github.com/Arnau-Mas)  
 [Carlos Marruedo - 15](https://github.com/CarlosMarruedo)  
 [Claudia Ballano - 16](https://github.com/claudiaballano)  
