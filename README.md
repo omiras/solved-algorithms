@@ -27,6 +27,7 @@ This is a repository that contains a set of solved algorithms from different sou
 21. [Greet Developers](https://www.codewars.com/kata/58279e13c983ca4a2a00002a/train/javascript)
 22. [Anagram](https://leetcode.com/explore/interview/card/top-interview-questions-easy/127/strings/882/)
 23. [Two Sum](https://leetcode.com/problems/two-sum/)
+24. [Majority Numbers](https://leetcode.com/explore/interview/card/top-interview-questions-medium/114/others/824/)
 
 ## List of algorithms with TDD
 1. [Reversed Words](https://www.codewars.com/kata/51c8991dee245d7ddf00000e)
@@ -37,7 +38,8 @@ This is a repository that contains a set of solved algorithms from different sou
 [Ariel Neme](https://github.com/ArielFabianN)
 [Arnau Mas - 22](https://github.com/Arnau-Mas)  
 [Carlos Marruedo - 15](https://github.com/CarlosMarruedo)  
-[Claudia Ballano - 16](https://github.com/claudiaballano)  
+[Claudia Ballano - 16](https://github.com/claudiaballano)
+[Cristian Cullell -24](https://github.com/cristian-cll)
 [Daniel Ruiz - 17](https://github.com/DanielRS2219)  
 [Diego Lajusticia](https://github.com/diegolajus)  
 [Didac Pérez](https://github.com/didac3141592)  
