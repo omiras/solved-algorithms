@@ -28,6 +28,7 @@ This is a repository that contains a set of solved algorithms from different sou
 22. [Anagram](https://leetcode.com/explore/interview/card/top-interview-questions-easy/127/strings/882/)
 23. [Two Sum](https://leetcode.com/problems/two-sum/)
 24. [Majority Numbers](https://leetcode.com/explore/interview/card/top-interview-questions-medium/114/others/824/)
+25. [First Unique Character](https://leetcode.com/explore/interview/card/top-interview-questions-easy/127/strings/881/)
 
 ## List of algorithms with TDD
 1. [Reversed Words](https://www.codewars.com/kata/51c8991dee245d7ddf00000e)
@@ -35,7 +36,7 @@ This is a repository that contains a set of solved algorithms from different sou
 ## Contributors
 
 [Alba Guzman](https://github.com/aguzsol)
-[Ariel Neme](https://github.com/ArielFabianN)
+[Ariel Neme - 23](https://github.com/ArielFabianN)
 [Arnau Mas - 22](https://github.com/Arnau-Mas)  
 [Carlos Marruedo - 15](https://github.com/CarlosMarruedo)  
 [Claudia Ballano - 16](https://github.com/claudiaballano)
@@ -57,6 +58,7 @@ This is a repository that contains a set of solved algorithms from different sou
 [Oscar Farré](https://github.com/wildkur)  
 [Pedro Ninci](https://github.com/pppeedrito)  
 [Sergi Justiniano](https://github.com/homell100)  
-[Silvia Gutierrez](https://github.com/silviagb2)  
+[Silvia Gutierrez](https://github.com/silviagb2) 
+[Vanessa Collazos-25](https://github.com/vcollazos) 
 [Xiande Qiu](https://github.com/Xiande-zx)  
 
