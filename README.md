@@ -30,6 +30,7 @@ This is a repository that contains a set of solved algorithms from different sou
 24. [Majority Numbers](https://leetcode.com/explore/interview/card/top-interview-questions-medium/114/others/824/)
 25. [First Unique Character](https://leetcode.com/explore/interview/card/top-interview-questions-easy/127/strings/881/)
 26. [single Number](https://leetcode.com/explore/interview/card/top-interview-questions-easy/92/array/549/)
+27. [Valid Spacing](https://www.codewars.com/kata/5f77d62851f6bc0033616bd8) 
 
 ## List of algorithms with TDD
 1. [Reversed Words](https://www.codewars.com/kata/51c8991dee245d7ddf00000e)
@@ -41,7 +42,8 @@ This is a repository that contains a set of solved algorithms from different sou
 [Arnau Mas - 22](https://github.com/Arnau-Mas)  
 [Carlos Marruedo - 15](https://github.com/CarlosMarruedo)  
 [Claudia Ballano - 16](https://github.com/claudiaballano)  
-[Cristian Cullell -24](https://github.com/cristian-cll)  
+[Cristian Cullell -24](https://github.com/cristian-cll)
+[David Gómez - 27](https://github.com/davidgomezfrieiro)  
 [Daniel Ruiz - 17](https://github.com/DanielRS2219)  
 [Diego Lajusticia](https://github.com/diegolajus)  
 [Didac Pérez](https://github.com/didac3141592)  
