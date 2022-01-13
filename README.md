@@ -33,6 +33,7 @@ Recently, it has been updated with the members of the team [Full Stack Altia](ht
 25. [First Unique Character](https://leetcode.com/explore/interview/card/top-interview-questions-easy/127/strings/881/)
 26. [single Number](https://leetcode.com/explore/interview/card/top-interview-questions-easy/92/array/549/)
 27. [Valid Spacing](https://www.codewars.com/kata/5f77d62851f6bc0033616bd8) 
+28. [Bingo Card] (https://www.codewars.com/kata/566d5e2e57d8fae53c00000c)
 
 ## List of algorithms with TDD
 1. [Reversed Words](https://www.codewars.com/kata/51c8991dee245d7ddf00000e)
@@ -45,8 +46,9 @@ Recently, it has been updated with the members of the team [Full Stack Altia](ht
 [Carlos Marruedo - 15](https://github.com/CarlosMarruedo)  
 [Claudia Ballano - 16](https://github.com/claudiaballano)  
 [Cristian Cullell -24](https://github.com/cristian-cll)
-[David Gómez - 27](https://github.com/davidgomezfrieiro)  
-[Daniel Ruiz - 17](https://github.com/DanielRS2219)  
+[Daniel Ruiz - 17](https://github.com/DanielRS2219) 
+[David Gómez - 27](https://github.com/davidgomezfrieiro) 
+[David Pérez - 28](https://github.com/k87c)
 [Diego Lajusticia](https://github.com/diegolajus)  
 [Didac Pérez](https://github.com/didac3141592)  
 [Eduard Garcia](https://github.com/GoatBass/)  
@@ -66,5 +68,4 @@ Recently, it has been updated with the members of the team [Full Stack Altia](ht
 [Sergi Justiniano](https://github.com/homell100)  
 [Silvia Gutierrez](https://github.com/silviagb2)  
 [Vanessa Collazos-25](https://github.com/vcollazos)  
-[Xiande Qiu](https://github.com/Xiande-zx)  
-
+[Xiande Qiu](https://github.com/Xiande-zx)  ]
