@@ -33,7 +33,7 @@ Recently, it has been updated with the members of the team [Full Stack Altia](ht
 25. [First Unique Character](https://leetcode.com/explore/interview/card/top-interview-questions-easy/127/strings/881/)
 26. [single Number](https://leetcode.com/explore/interview/card/top-interview-questions-easy/92/array/549/)
 27. [Valid Spacing](https://www.codewars.com/kata/5f77d62851f6bc0033616bd8) 
-28. [Bingo Card] (https://www.codewars.com/kata/566d5e2e57d8fae53c00000c)
+28. [Bingo Card](https://www.codewars.com/kata/566d5e2e57d8fae53c00000c)
 
 ## List of algorithms with TDD
 1. [Reversed Words](https://www.codewars.com/kata/51c8991dee245d7ddf00000e)
