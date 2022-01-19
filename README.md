@@ -34,12 +34,13 @@ Recently, it has been updated with the members of the team [Full Stack Altia](ht
 26. [single Number](https://leetcode.com/explore/interview/card/top-interview-questions-easy/92/array/549/)  
 27. [Valid Spacing](https://www.codewars.com/kata/5f77d62851f6bc0033616bd8) 
 28. [Bingo Card](https://www.codewars.com/kata/566d5e2e57d8fae53c00000c)
+29. [Suma Número String](https://www.codewars.com/kata/598f76a44f613e0e0b000026)
 
 ## List of algorithms with TDD
 1. [Reversed Words](https://www.codewars.com/kata/51c8991dee245d7ddf00000e)
 
 ## Contributors
-
+[Adrián González Filgueira](https://github.com/AdrianGonzalezFilgueira)
 [Alba Guzman](https://github.com/aguzsol)  
 [Ariel Neme - 23](https://github.com/ArielFabianN)  
 [Arnau Mas - 22](https://github.com/Arnau-Mas)  
