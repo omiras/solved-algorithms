@@ -35,13 +35,15 @@ Recently, it has been updated with the members of the team [Full Stack Altia](ht
 27. [Valid Spacing](https://www.codewars.com/kata/5f77d62851f6bc0033616bd8) 
 28. [Bingo Card](https://www.codewars.com/kata/566d5e2e57d8fae53c00000c)
 29. [Suma Número String](https://www.codewars.com/kata/598f76a44f613e0e0b000026)
+30. [Sort by name](https://www.codewars.com/kata/57ea5b0b75ae11d1e800006c)
 
 ## List of algorithms with TDD
 1. [Reversed Words](https://www.codewars.com/kata/51c8991dee245d7ddf00000e)
 
 ## Contributors
 [Adrián González Filgueira](https://github.com/AdrianGonzalezFilgueira)
-[Alba Guzman](https://github.com/aguzsol)  
+[Alba Guzman](https://github.com/aguzsol)
+[Angel Amado - 30](https://github.com/angel-amado)  
 [Ariel Neme - 23](https://github.com/ArielFabianN)  
 [Arnau Mas - 22](https://github.com/Arnau-Mas)  
 [Carlos Marruedo - 15](https://github.com/CarlosMarruedo)  
@@ -69,4 +71,4 @@ Recently, it has been updated with the members of the team [Full Stack Altia](ht
 [Sergi Justiniano](https://github.com/homell100)  
 [Silvia Gutierrez](https://github.com/silviagb2)  
 [Vanessa Collazos-25](https://github.com/vcollazos)  
-[Xiande Qiu](https://github.com/Xiande-zx)  ]
+[Xiande Qiu](https://github.com/Xiande-zx)  
