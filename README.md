@@ -43,7 +43,7 @@ Recently, it has been updated with the members of the team [Full Stack Altia](ht
 
 ## Contributors
 [Aarón Aira García - 31](https://github.com/aaronaira)  
-[Adrián González Filgueira](https://github.com/AdrianGonzalezFilgueira)  
+[Adrián González Filgueira -29](https://github.com/AdrianGonzalezFilgueira)  
 [Alba Guzman](https://github.com/aguzsol)  
 [Angel Amado - 30](https://github.com/angel-amado)  
 [Ariel Neme - 23](https://github.com/ArielFabianN)  
