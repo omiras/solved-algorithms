@@ -36,11 +36,13 @@ Recently, it has been updated with the members of the team [Full Stack Altia](ht
 28. [Bingo Card](https://www.codewars.com/kata/566d5e2e57d8fae53c00000c)
 29. [Suma Número String](https://www.codewars.com/kata/598f76a44f613e0e0b000026)
 30. [Sort by name](https://www.codewars.com/kata/57ea5b0b75ae11d1e800006c)
+31. [Duplicate String](https://www.codewars.com/kata/54bf1c2cd5b56cc47f0007a1)
 
 ## List of algorithms with TDD
 1. [Reversed Words](https://www.codewars.com/kata/51c8991dee245d7ddf00000e)
 
 ## Contributors
+[Aarón Aira García](https://github.com/aaronaira)
 [Adrián González Filgueira](https://github.com/AdrianGonzalezFilgueira)
 [Alba Guzman](https://github.com/aguzsol)
 [Angel Amado - 30](https://github.com/angel-amado)  
