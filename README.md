@@ -38,6 +38,7 @@ Recently, it has been updated with the members of the team [Full Stack Altia](ht
 30. [Sort by name](https://www.codewars.com/kata/57ea5b0b75ae11d1e800006c)
 31. [Duplicate String](https://www.codewars.com/kata/54bf1c2cd5b56cc47f0007a1)
 32. [String Repeat](https://www.codewars.com/kata/57a0e5c372292dd76d000d7e)
+33. [Highest and Lowest](https://www.codewars.com/kata/554b4ac871d6813a03000035)
 
 ## List of algorithms with TDD
 1. [Reversed Words](https://www.codewars.com/kata/51c8991dee245d7ddf00000e)
@@ -68,7 +69,8 @@ Recently, it has been updated with the members of the team [Full Stack Altia](ht
 [Lenny Cala](https://github.com/LennyCC)  
 [Marc Bellido](https://github.com/mbellydo)  
 [Maria Canals - 19](https://github.com/maria-canals)
-[Paula Iglesias Amigo - 32](https://github.com/PaULah88)   
+[María Gabriela - 33](https://github.com/gabihersan988)  
+[Paula Iglesias Amigo - 32](https://github.com/PaULah88)
 [Ricardo Churrión - 20](https://github.com/rachurion)  
 [Oscar Farré](https://github.com/wildkur)  
 [Pedro Ninci](https://github.com/pppeedrito)  
