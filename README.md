@@ -44,6 +44,8 @@ Recently, it has been updated with the members of the team [Full Stack Altia](ht
 36. [DNA](https://www.codewars.com/kata/554e4a2f232cdd87d9000038)
 37. [PositiveSum](https://www.codewars.com/kata/5715eaedb436cf5606000381)
 38. [abrevName](https://www.codewars.com/kata/57eadb7ecd143f4c9c0000a3)
+39. [Maze Runner](https://www.codewars.com/kata/58663693b359c4a6560001d6)
+
 ## List of algorithms with TDD
 1. [Reversed Words](https://www.codewars.com/kata/51c8991dee245d7ddf00000e)
 
@@ -51,6 +53,7 @@ Recently, it has been updated with the members of the team [Full Stack Altia](ht
 [Aarón Aira García - 31](https://github.com/aaronaira)  
 [Adrián González Filgueira - 29](https://github.com/AdrianGonzalezFilgueira)  
 [Alba Guzman](https://github.com/aguzsol)  
+[Almudena Raya](https://github.com/rayaalmudena)
 [Angel Amado - 30](https://github.com/angel-amado)  
 [Ariel Neme - 23](https://github.com/ArielFabianN)  
 [Arnau Mas - 22](https://github.com/Arnau-Mas)  
