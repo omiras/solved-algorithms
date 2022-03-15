@@ -44,6 +44,8 @@ Recently, it has been updated with the members of the team [Full Stack Altia](ht
 36. [DNA](https://www.codewars.com/kata/554e4a2f232cdd87d9000038)
 37. [PositiveSum](https://www.codewars.com/kata/5715eaedb436cf5606000381)
 38. [abrevName](https://www.codewars.com/kata/57eadb7ecd143f4c9c0000a3)
+39. [Maze Runner](https://www.codewars.com/kata/58663693b359c4a6560001d6)
+
 ## List of algorithms with TDD
 1. [Reversed Words](https://www.codewars.com/kata/51c8991dee245d7ddf00000e)
 
@@ -51,6 +53,7 @@ Recently, it has been updated with the members of the team [Full Stack Altia](ht
 [Aarón Aira García - 31](https://github.com/aaronaira)  
 [Adrián González Filgueira - 29](https://github.com/AdrianGonzalezFilgueira)  
 [Alba Guzman](https://github.com/aguzsol)  
+[Almudena Raya - 39](https://github.com/rayaalmudena)  
 [Angel Amado - 30](https://github.com/angel-amado)  
 [Ariel Neme - 23](https://github.com/ArielFabianN)  
 [Arnau Mas - 22](https://github.com/Arnau-Mas)  
@@ -67,9 +70,9 @@ Recently, it has been updated with the members of the team [Full Stack Altia](ht
 [Ignacio Spadavecchia - 21](https://github.com/Ignacio-Spadavecchia)  
 [Jesús Calatayud](https://github.com/JesusCalatayud)  
 [Jose Cantuarias](https://github.com/JoseCantuarias)
-[Jose Castillo](https://github.com/josecastp) 
-[Kendry Carvajal - 36](https://github.com/Kecar2)
-[Kevin Salcedo - 18](https://github.com/kevinsalcedoUab)  
+[Jose Castillo](https://github.com/josecastp)  
+[Kendry Carvajal - 36](https://github.com/Kecar2)   
+[Kevin Salcedo - 18](https://github.com/kevinsalcedoUab)   
 [Júlia Martinez](https://github.com/juliverd59)  
 [Laia Guillén - 20](https://github.com/laiagc892)  
 [Lenny Cala](https://github.com/LennyCC)  
@@ -84,6 +87,6 @@ Recently, it has been updated with the members of the team [Full Stack Altia](ht
 [Pedro Ninci](https://github.com/pppeedrito)  
 [Sergi Justiniano](https://github.com/homell100)  
 [Silvia Gutierrez](https://github.com/silviagb2)  
-[Vanessa Collazos-25](https://github.com/vcollazos)
+[Vanessa Collazos-25](https://github.com/vcollazos)  
 [Víctor Cabello-35](https://github.com/VCabelloDel)  
 [Xiande Qiu](https://github.com/Xiande-zx)  
