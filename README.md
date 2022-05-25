@@ -64,7 +64,7 @@ Recently, it has been updated with the members of the team [Full Stack Altia](ht
 [Diego Lajusticia](https://github.com/diegolajus)    
 [Didac Pérez](https://github.com/didac3141592)  
 [Eduard Garcia](https://github.com/GoatBass/) 
-[Fabian Taranto](https://github.com/fataranto) 
+[Fabian Taranto - 39](https://github.com/fataranto) 
 [Fran Ariño](https://github.com/fraanfx)  
 [Ignacio Spadavecchia - 21](https://github.com/Ignacio-Spadavecchia)  
 [Jesús Calatayud](https://github.com/JesusCalatayud)  
