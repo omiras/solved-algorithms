@@ -46,6 +46,7 @@ Recently, it has been updated with the members of the team [Full Stack Altia](ht
 38. [abrevName](https://www.codewars.com/kata/57eadb7ecd143f4c9c0000a3)
 39. [Matching Letters](https://www.codewars.com/kata/5912ded3f9f87fd271000120)
 40. [Counting Amazon](https://www.codewars.com/kata/55b95c76e08bd5eef100001e) 
+41. [Count Positives Sum Negatives](https://www.codewars.com/kata/576bb71bbbcf0951d5000044/)
 ## List of algorithms with TDD
 1. [Reversed Words](https://www.codewars.com/kata/51c8991dee245d7ddf00000e)
 
@@ -56,7 +57,8 @@ Recently, it has been updated with the members of the team [Full Stack Altia](ht
 [Angel Amado - 30](https://github.com/angel-amado)  
 [Ariel Neme - 23](https://github.com/ArielFabianN)  
 [Arnau Mas - 22](https://github.com/Arnau-Mas)  
-[Carlos Marruedo - 15](https://github.com/CarlosMarruedo)  
+[Carlos Marruedo - 15](https://github.com/CarlosMarruedo) 
+[Carolina Lisa-41](https://github.com/lisis/)
 [Claudia Ballano - 16](https://github.com/claudiaballano)  
 [Cristian Cullell -24](https://github.com/cristian-cll)  
 [Daniel Ruiz - 17](https://github.com/DanielRS2219)  
