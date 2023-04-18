@@ -6,6 +6,11 @@
 
 function hero(bullets, dragons) {
   //Get Coding!
+  //debemos comprobar si el hero tiene suficientes balas para derrotar a los 2 dragones. 
+  // para matar al dragon necessita 2 balas, multiplicado por 2 ya que hay 2 dragones.
+  // Si el número de balas que el héroe tiene es mayor o igual a la cantidad de balas necesarias para derrotar a los dragones,
+  // entonces el héroe puede completar su misión y la función debe devolver Verdadero (true), de lo contrario, debe devolver Falso (false).
+  return bullets >= dragons * 2;
 }
 
 console.log(hero(10, 5), true);
