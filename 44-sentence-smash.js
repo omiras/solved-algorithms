@@ -17,24 +17,3 @@ function danielAplasta(palabra) {  /*(palabra/Es un argumento)arguments es un ob
 console.log(danielAplasta(["Hablame", "Mi","Pana"])); //Aqui esta exprezando el resultado de sentence que seria algo parecido a console.log(sentence = "Habla", "Mi","Pana"); que son las palabras que se han agregado a esta variable en cada iteración.
 console.log(danielAplasta(["Qué", "vaina", "es?"])); 
 console.log(danielAplasta(["Hago", "Paddings", "a", "bajo", "costo"])); 
-
-
-
-
-// function smash(words) {
-//    let sentence = "";
-  
-//    for (let i = 0; i < words.length; i++) {
-//       sentence += words[i];
-      
-//       if (i !== words.length - 1) {
-//          sentence += " ";
-//       }
-//    }
-  
-//    return sentence;
-// };
-
-// console.log(smash(["hello", "world"])); // "hello world"
-// console.log(smash(["hello", "amazing", "world"])); // "hello amazing world";
-// console.log(smash(["this", "is", "a", "really", "long", "sentence"])); // "this is a really long sentence");
