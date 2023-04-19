@@ -18,9 +18,9 @@ function hero(bullets, dragons) {
 
   if (bullets >= bulletsPerDragon * dragons) {
     return true;
-  } else {
-    return false;
   }
+  // la única opción que queda es que NO he podido matar a los dragones, entonces devuelvo false
+  return false;
 }
 
 console.log(hero(10, 5), true);
