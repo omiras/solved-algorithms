@@ -9,7 +9,7 @@ function sumMix(x) {
 }
 
 // en el terminal verás:
-assert.strictEqual(sumMix([9, 3, "7", "3"])); // 2
-assert.strictEqual(sumMix(["5", "0", 9, 3, 2, 1, "9", 6, 7])); //42
-assert.strictEqual(sumMix(["3"])); // 3
-assert.strictEqual(sumMix([])); // 0
+console.log(sumMix([9, 3, "7", "3"])); // 2
+console.log(sumMix(["5", "0", 9, 3, 2, 1, "9", 6, 7])); //42
+console.log(sumMix(["3"])); // 3
+console.log(sumMix([])); // 0
