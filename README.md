@@ -50,6 +50,7 @@ Recently, it has been updated with the members of the team [Full Stack Altia](ht
 43. [Is He Gonna Survive?](https://www.codewars.com/kata/59ca8246d751df55cc00014c)
 44. [Smash Words](https://www.codewars.com/kata/53dc23c68a0c93699800041d)  
 45. [Rock,paper,scissors](https://www.codewars.com/kata/5672a98bdbdd995fad00000f)  
+46. [Sum Mixed Array](https://www.codewars.com/kata/57eaeb9578748ff92a000009/)
 
 ## List of algorithms with TDD
 1. [Reversed Words](https://www.codewars.com/kata/51c8991dee245d7ddf00000e)
@@ -75,7 +76,8 @@ Recently, it has been updated with the members of the team [Full Stack Altia](ht
 [Eduard Garcia](https://github.com/GoatBass/)  
 [Fabian Taranto - 39](https://github.com/fataranto)  
 [Fran Ariño](https://github.com/fraanfx)  
-[Ignacio Spadavecchia - 21](https://github.com/Ignacio-Spadavecchia)  
+[Ignacio Spadavecchia - 21](https://github.com/Ignacio-Spadavecchia)
+[Javier Aldana - 46] (https://github.com/aldjavierdavid)  
 [Jesús Calatayud](https://github.com/JesusCalatayud)  
 [Jose Cantuarias](https://github.com/JoseCantuarias)  
 [Jose Castillo](https://github.com/josecastp)  
@@ -100,3 +102,4 @@ Recently, it has been updated with the members of the team [Full Stack Altia](ht
 [Vanessa Collazos-25](https://github.com/vcollazos)  
 [Víctor Cabello-35](https://github.com/VCabelloDel)   
 [Xiande Qiu](https://github.com/Xiande-zx)  
+
