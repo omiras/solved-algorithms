@@ -1,10 +1,16 @@
 // https://www.codewars.com/kata/5bb904724c47249b10000131
 
 function points(games) {
-  
   let score = 0;
   
-  // You code here, good luck!
+  for (let i = 0; i < games.length; i++) {
+     [x, y] = games[i].split(":").map(Number);
+    if (x > y) {
+      score += 3;
+    } else if (x === y) {
+      score += 1;
+    }
+  }
   
   return score;
 }
