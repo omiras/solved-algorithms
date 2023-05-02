@@ -50,14 +50,17 @@ Recently, it has been updated with the members of the team [Full Stack Altia](ht
 42. [Is He Gonna Survive?](https://www.codewars.com/kata/59ca8246d751df55cc00014c)
 43. [Smash Words](https://www.codewars.com/kata/53dc23c68a0c93699800041d)
 44. [Rock,paper,scissors](https://www.codewars.com/kata/5672a98bdbdd995fad00000f)
-45. [Sum Mixed Array](https://www.codewars.com/kata/57eaeb9578748ff92a000009/) 49.[Bus station](https://www.codewars.com/kata/5648b12ce68d9daa6b000099)
+45. [Sum Mixed Array](https://www.codewars.com/kata/57eaeb9578748ff92a000009/) 
+46. [Sum Mixed Array](https://www.codewars.com/kata/57eaeb9578748ff92a000009/)
+47. [Remove Chars](https://www.codewars.com/kata/56bc28ad5bdaeb48760009b0) 
+48. [Total amount points 48](https://www.codewars.com/kata/5bb904724c47249b10000131) 
+49.[Bus station](https://www.codewars.com/kata/5648b12ce68d9daa6b000099)
 
 ## List of algorithms with TDD
 
 1. [Reversed Words](https://www.codewars.com/kata/51c8991dee245d7ddf00000e)
 
-## Contributors
-
+## Contributors 
 [Aarón Aira García - 31](https://github.com/aaronaira)  
 [Adrián González Filgueira - 29](https://github.com/AdrianGonzalezFilgueira)  
 [Alba Guzman -](https://github.com/aguzsol)  
@@ -80,9 +83,11 @@ Recently, it has been updated with the members of the team [Full Stack Altia](ht
 [Fran Ariño](https://github.com/fraanfx)  
 [Ignacio Spadavecchia - 21](https://github.com/Ignacio-Spadavecchia)
 [Javier Aldana - 46] (https://github.com/aldjavierdavid)  
+[Jonathan Ruiz Palacios - 48](https://github.com/Cynox336) 
 [Jesús Calatayud](https://github.com/JesusCalatayud)  
 [Jose Cantuarias](https://github.com/JoseCantuarias)  
 [Jose Castillo](https://github.com/josecastp)  
+[Júlia Valls Moix - 47](https://github.com/JuliaVallsMoix)
 [Kendry Carvajal - 36](https://github.com/Kecar2)  
 [Kevin Salcedo - 18](https://github.com/kevinsalcedoUab)  
 [Júlia Martinez](https://github.com/juliverd59)  
