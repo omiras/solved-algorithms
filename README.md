@@ -50,7 +50,7 @@ Recently, it has been updated with the members of the team [Full Stack Altia](ht
 42. [Is He Gonna Survive?](https://www.codewars.com/kata/59ca8246d751df55cc00014c)
 43. [Smash Words](https://www.codewars.com/kata/53dc23c68a0c93699800041d)
 44. [Rock,paper,scissors](https://www.codewars.com/kata/5672a98bdbdd995fad00000f)
-45. [Sum Mixed Array](https://www.codewars.com/kata/57eaeb9578748ff92a000009/)
+45. [Sum Mixed Array](https://www.codewars.com/kata/57eaeb9578748ff92a000009/) 49.[Bus station](https://www.codewars.com/kata/5648b12ce68d9daa6b000099)
 
 ## List of algorithms with TDD
 
