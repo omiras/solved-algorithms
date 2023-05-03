@@ -6,7 +6,7 @@
 // (function)La función recorre el array 'a' mediante un bucle 'for' la cual evaluará
 //si cada elemento supera el límiite.
 function smallEnough(a, limit) {
-    for (let i = 0 ; i < a.length ; i++) {
+    for (let  i = 0 ; i < a.length ; i++) {
         if ( a[i] > limit) {//(if = false)Si en algún caso existe un elemento mayor que el límite pasará a ser una 
             return false;   //evaluación negativa y por tanto falsa, indicando que no todos los elementos
         }                   //son iguales o menores que el límite establecido.
