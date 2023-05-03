@@ -1,6 +1,6 @@
 // https://www.codewars.com/kata/57cc981a58da9e302a000214/
 //Hospital cliníc nos pide que desarrollemos esta función la cual recoge 
-//datos sobre pruebas realizadas a pacientes del centro.
+//datos sobre pruebas realizadas a pacientes del centro.n
 
 
 // (function)La función recorre el array 'a' mediante un bucle 'for' la cual evaluará
