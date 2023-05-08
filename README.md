@@ -56,6 +56,8 @@ Recently, it has been updated with the members of the team [Full Stack Altia](ht
 48. [Total amount points 48](https://www.codewars.com/kata/5bb904724c47249b10000131) 
 49.[Bus station](https://www.codewars.com/kata/5648b12ce68d9daa6b000099)
 50.[Small Enough](https://www.codewars.com/kata/57cc981a58da9e302a000214/)
+51. [The Groupon Code](https://www.codewars.com/kata/539de388a540db7fec000642)
+
 ## List of algorithms with TDD
 
 1. [Reversed Words](https://www.codewars.com/kata/51c8991dee245d7ddf00000e)
@@ -63,7 +65,8 @@ Recently, it has been updated with the members of the team [Full Stack Altia](ht
 ## Contributors 
 [Aarón Aira García - 31](https://github.com/aaronaira)  
 [Adrián González Filgueira - 29](https://github.com/AdrianGonzalezFilgueira)  
-[Alba Guzman -](https://github.com/aguzsol)  
+[Alba Guzman -](https://github.com/aguzsol)
+[Aleix Aguilar - 51](https://github.com/aleixnit)
 [Angel Amado - 30](https://github.com/angel-amado)  
 [Ariel Neme - 23](https://github.com/ArielFabianN)  
 [Arnau Mas - 22](https://github.com/Arnau-Mas)  
