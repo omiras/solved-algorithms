@@ -2,13 +2,37 @@
    NTT Data nos ha pedido que enviemos las aptitudes de los alumnos para los diferentes 
    lenguajes de programación de una forma determinada.
    Lee el enunviado original e implementa la función
+   Resuelto por Dina
    
    https://www.codewars.com/kata/5b16490986b6d336c900007d
 **/
 
 function myLanguages(results) {
+   // Crear un array para almacenar los idiomas con puntaje mayor o igual a 60
+   var languages = [];
 
+   // Recorrer el objeto results utilizando un bucle "for...in"
+   for (var language in results) {
+     // Verificar si el puntaje es mayor o igual a 60
+     if (results[language] >= 60) {
+       // Agregar el idioma al array de languages
+       languages.push(language);
+     }
+   }
+ 
+   // Ordenar el array de languages en orden descendente
+   languages.sort(function(a, b) {
+     return results[b] - results[a];
+   });
+ 
+   // Devolver el array de languages
+   return languages;
+ 
 }
+
+
+
+
 
 console.log(myLanguages({"Java" : 10, "Ruby" : 80, "Python" : 65}), ["Ruby", "Python"])
 console.log(myLanguages({"Hindi" : 60, "Greek" : 71, "Dutch" : 93}), ["Dutch", "Greek", "Hindi"])
