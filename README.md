@@ -103,6 +103,7 @@ Recently, it has been updated with the members of the team [Full Stack Altia](ht
 [María Gabriela - 33](https://github.com/gabihersan988)  
 [Marcos Saucedo - 44](https://github.com/marcossadu)
 [Nordin M'hamed - 50](https://github.com/NordinMM)
+[Dina Yamani - 52](https://github.com/Dweina1920)
 [Paula Iglesias Amigo - 32](https://github.com/PaULah88)  
 [Ricardo Churrión - 20](https://github.com/rachurion)  
 [Oscar Farré](https://github.com/wildkur)  
