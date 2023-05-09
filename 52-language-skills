@@ -17,10 +17,12 @@ function myLanguages(results) {
      if (results[language] >= 60) {
        // Agregar el idioma al array de languages
        languages.push(language);
+
+
        console.log('key:', language)
        console.log('value:',results[language] )
      }
-   }
+   } 
  
    // Ordenar el array de languages en orden descendente
    languages.sort(function(a, b) {
