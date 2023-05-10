@@ -57,6 +57,7 @@ Recently, it has been updated with the members of the team [Full Stack Altia](ht
 49.[Bus station](https://www.codewars.com/kata/5648b12ce68d9daa6b000099)
 50.[Small Enough](https://www.codewars.com/kata/57cc981a58da9e302a000214/)
 51. [The Groupon Code](https://www.codewars.com/kata/539de388a540db7fec000642)
+52. [Phyton-Developer](https://www.codewars.com/kata/5827bc50f524dd029d0005f2/)
 
 ## List of algorithms with TDD
 
@@ -83,9 +84,10 @@ Recently, it has been updated with the members of the team [Full Stack Altia](ht
 [Didac Pérez](https://github.com/didac3141592)  
 [Eduard Garcia](https://github.com/GoatBass/)  
 [Fabian Taranto - 39](https://github.com/fataranto)  
-[Fran Ariño](https://github.com/fraanfx)  
+[Fran Ariño](https://github.com/fraanfx)
+[Franciellen Gonçalves - 53](https://github.com/frandigon6alves)  
 [Ignacio Spadavecchia - 21](https://github.com/Ignacio-Spadavecchia)
-[Javier Aldana - 46] (https://github.com/aldjavierdavid)  
+[Javier Aldana - 46](https://github.com/aldjavierdavid)  
 [Jonathan Ruiz Palacios - 48](https://github.com/Cynox336) 
 [Jesús Calatayud](https://github.com/JesusCalatayud)  
 [Jose Cantuarias](https://github.com/JoseCantuarias)  
