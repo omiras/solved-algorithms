@@ -50,19 +50,19 @@ Recently, it has been updated with the members of the team [Full Stack Altia](ht
 42. [Is He Gonna Survive?](https://www.codewars.com/kata/59ca8246d751df55cc00014c)
 43. [Smash Words](https://www.codewars.com/kata/53dc23c68a0c93699800041d)
 44. [Rock,paper,scissors](https://www.codewars.com/kata/5672a98bdbdd995fad00000f)
-45. [Sum Mixed Array](https://www.codewars.com/kata/57eaeb9578748ff92a000009/) 
+45. [Sum Mixed Array](https://www.codewars.com/kata/57eaeb9578748ff92a000009/)
 46. [Sum Mixed Array](https://www.codewars.com/kata/57eaeb9578748ff92a000009/)
-47. [Remove Chars](https://www.codewars.com/kata/56bc28ad5bdaeb48760009b0) 
-48. [Total amount points 48](https://www.codewars.com/kata/5bb904724c47249b10000131) 
-49.[Bus station](https://www.codewars.com/kata/5648b12ce68d9daa6b000099)
-50.[Small Enough](https://www.codewars.com/kata/57cc981a58da9e302a000214/)
-51. [The Groupon Code](https://www.codewars.com/kata/539de388a540db7fec000642)
+47. [Remove Chars](https://www.codewars.com/kata/56bc28ad5bdaeb48760009b0)
+48. [Total amount points 48](https://www.codewars.com/kata/5bb904724c47249b10000131) 49.[Bus station](https://www.codewars.com/kata/5648b12ce68d9daa6b000099) 50.[Small Enough](https://www.codewars.com/kata/57cc981a58da9e302a000214/)
+49. [The Groupon Code](https://www.codewars.com/kata/539de388a540db7fec000642)
+50. [To UpperCase](https://www.codewars.com/kata/57a0556c7cb1f31ab3000ad7)
 
 ## List of algorithms with TDD
 
 1. [Reversed Words](https://www.codewars.com/kata/51c8991dee245d7ddf00000e)
 
-## Contributors 
+## Contributors
+
 [Aarón Aira García - 31](https://github.com/aaronaira)  
 [Adrián González Filgueira - 29](https://github.com/AdrianGonzalezFilgueira)  
 [Alba Guzman -](https://github.com/aguzsol)
@@ -86,7 +86,7 @@ Recently, it has been updated with the members of the team [Full Stack Altia](ht
 [Fran Ariño](https://github.com/fraanfx)  
 [Ignacio Spadavecchia - 21](https://github.com/Ignacio-Spadavecchia)
 [Javier Aldana - 46] (https://github.com/aldjavierdavid)  
-[Jonathan Ruiz Palacios - 48](https://github.com/Cynox336) 
+[Jonathan Ruiz Palacios - 48](https://github.com/Cynox336)
 [Jesús Calatayud](https://github.com/JesusCalatayud)  
 [Jose Cantuarias](https://github.com/JoseCantuarias)  
 [Jose Castillo](https://github.com/josecastp)  
@@ -105,7 +105,8 @@ Recently, it has been updated with the members of the team [Full Stack Altia](ht
 [Nordin M'hamed - 50](https://github.com/NordinMM)
 [Paula Iglesias Amigo - 32](https://github.com/PaULah88)  
 [Ricardo Churrión - 20](https://github.com/rachurion)  
-[Oscar Farré](https://github.com/wildkur)  
+[Oscar Farré](https://github.com/wildkur)
+[Oscar Miras](https://github.com/omiras)
 [Pedro Ninci](https://github.com/pppeedrito)  
 [Sara Rodríguez - 40](https://github.com/SaraaLee)  
 [Sergi Justiniano](https://github.com/homell100)  
