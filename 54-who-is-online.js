@@ -14,7 +14,7 @@ function whosOnline(friends) {
   // Your code here...
 }
 
-friends = [
+let friends = [
   {
     username: "David",
     status: "online",
@@ -41,4 +41,33 @@ console.log(whosOnline(friends));
       offline: ['Lucy'],
       away: ['Bob']
     }
+ */
+
+let friends_2 = [
+  {
+    username: "David",
+    status: "offline",
+    lastActivity: 10,
+  },
+  {
+    username: "Lucy",
+    status: "offline",
+    lastActivity: 22,
+  },
+  {
+    username: "Bob",
+    status: "offline",
+    lastActivity: 104,
+  },
+];
+
+console.log(whosOnline(friends_2));
+
+/**
+ * {
+ * online: [],
+ * offline: ["David", "Lucy", "Bob"],
+ * away: []
+ *
+ * }
  */
