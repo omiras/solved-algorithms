@@ -12,6 +12,29 @@
 
 function whosOnline(friends) {
   // Your code here...
+
+  //Creamos un objecto nuevo con los resultados que mostraremos
+  const result = {
+    online: [],
+    offline: [],
+    await: [],
+  };
+
+  //Recorremos el array de friends con un bucle for of (que se usa para recorrer arrays const valor del array)
+  for (const persona of friends) {
+    if (persona.status === "online" && persona.lastActivity <= 10) {
+      //Si la persona está online y la actividad es menor o igual a 10, se añade a la propiedad online del objeto result 
+      result.online.push(persona.username);
+    } else if (persona.status === "online" && persona.lastActivity > 10) {
+      //Si la persona está online y la actividad es superior a 10, se añade a la propiedad await del objeto result 
+      result.await.push(persona.username);
+    } else {
+      //el resto se añade en offline
+      result.offline.push(persona.username);
+    }
+  }
+  //Devolvemos el nuevo objecto con las propiedades añadidas.
+  return result;
 }
 
 let friends = [

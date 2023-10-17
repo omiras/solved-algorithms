@@ -53,9 +53,12 @@ Recently, it has been updated with the members of the team [Full Stack Altia](ht
 45. [Sum Mixed Array](https://www.codewars.com/kata/57eaeb9578748ff92a000009/)
 46. [Sum Mixed Array](https://www.codewars.com/kata/57eaeb9578748ff92a000009/)
 47. [Remove Chars](https://www.codewars.com/kata/56bc28ad5bdaeb48760009b0)
-48. [Total amount points 48](https://www.codewars.com/kata/5bb904724c47249b10000131) 49.[Bus station](https://www.codewars.com/kata/5648b12ce68d9daa6b000099) 50.[Small Enough](https://www.codewars.com/kata/57cc981a58da9e302a000214/)
+48. [Total amount points 48](https://www.codewars.com/kata/5bb904724c47249b10000131) 
+49. [Bus station](https://www.codewars.com/kata/5648b12ce68d9daa6b000099) 
+50. [Small Enough](https://www.codewars.com/kata/57cc981a58da9e302a000214/)
 49. [The Groupon Code](https://www.codewars.com/kata/539de388a540db7fec000642)
 50. [To UpperCase](https://www.codewars.com/kata/57a0556c7cb1f31ab3000ad7)
+54. [Who is online](https://www.codewars.com/kata/5b6375f707a2664ada00002a)
 
 ## List of algorithms with TDD
 
@@ -85,7 +88,7 @@ Recently, it has been updated with the members of the team [Full Stack Altia](ht
 [Fabian Taranto - 39](https://github.com/fataranto)  
 [Fran Ariño](https://github.com/fraanfx)  
 [Ignacio Spadavecchia - 21](https://github.com/Ignacio-Spadavecchia)
-[Javier Aldana - 46] (https://github.com/aldjavierdavid)  
+[Javier Aldana - 46](https://github.com/aldjavierdavid)  
 [Jonathan Ruiz Palacios - 48](https://github.com/Cynox336)
 [Jesús Calatayud](https://github.com/JesusCalatayud)  
 [Jose Cantuarias](https://github.com/JoseCantuarias)  
@@ -102,6 +105,7 @@ Recently, it has been updated with the members of the team [Full Stack Altia](ht
 [Maria Canals - 19](https://github.com/maria-canals)  
 [María Gabriela - 33](https://github.com/gabihersan988)  
 [Marcos Saucedo - 44](https://github.com/marcossadu)
+[MCarmen Martínez -54](https://github.com/McMartinezc)
 [Nordin M'hamed - 50](https://github.com/NordinMM)
 [Paula Iglesias Amigo - 32](https://github.com/PaULah88)  
 [Ricardo Churrión - 20](https://github.com/rachurion)  
