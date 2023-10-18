@@ -56,8 +56,9 @@ Recently, it has been updated with the members of the team [Full Stack Altia](ht
 48. [Total amount points 48](https://www.codewars.com/kata/5bb904724c47249b10000131) 
 49. [Bus station](https://www.codewars.com/kata/5648b12ce68d9daa6b000099) 
 50. [Small Enough](https://www.codewars.com/kata/57cc981a58da9e302a000214/)
-49. [The Groupon Code](https://www.codewars.com/kata/539de388a540db7fec000642)
-50. [To UpperCase](https://www.codewars.com/kata/57a0556c7cb1f31ab3000ad7)
+51. [The Groupon Code](https://www.codewars.com/kata/539de388a540db7fec000642)
+52. [To UpperCase](https://www.codewars.com/kata/57a0556c7cb1f31ab3000ad7)
+53. [x]()
 54. [Who is online](https://www.codewars.com/kata/5b6375f707a2664ada00002a)
 
 ## List of algorithms with TDD
