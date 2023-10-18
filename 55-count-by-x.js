@@ -10,9 +10,19 @@
  *
  */
 
-function countBy(x, n) {
-  let z = [];
 
+// Para el 
+
+function countBy(x, n) {
+  let z = []; // Donde almacemnamos el array
+  let incremento = x;
+
+  for (let i = 0; i < n; i++) { //Queremos que se repita el bucle mientra i sea mas pequeña que la cantidad de numeros que queremos
+
+    z.push(incremento);  // Para meter cada numero en el array
+    incremento = incremento + x;
+  }
+  
   return z;
 }
 

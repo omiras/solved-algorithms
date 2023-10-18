@@ -59,7 +59,8 @@ Recently, it has been updated with the members of the team [Full Stack Altia](ht
 51. [The Groupon Code](https://www.codewars.com/kata/539de388a540db7fec000642)
 52. [To UpperCase](https://www.codewars.com/kata/57a0556c7cb1f31ab3000ad7)
 53. [x]()
-54. [Who is online](https://www.codewars.com/kata/5b6375f707a2664ada00002a)
+54. [Who is online](https://www.codewars.com/kata/5b6375f707a2664ada00002a)  
+55. [Count by x] (https://www.codewars.com/kata/5513795bd3fafb56c200049e/javascript)
 
 ## List of algorithms with TDD
 
@@ -86,6 +87,7 @@ Recently, it has been updated with the members of the team [Full Stack Altia](ht
 [Diego Lajusticia](https://github.com/diegolajus)  
 [Didac Pérez](https://github.com/didac3141592)  
 [Eduard Garcia](https://github.com/GoatBass/)  
+[Ester Fenero - 55] (https://github.com/Ester-0)  
 [Fabian Taranto - 39](https://github.com/fataranto)  
 [Fran Ariño](https://github.com/fraanfx)  
 [Ignacio Spadavecchia - 21](https://github.com/Ignacio-Spadavecchia)
