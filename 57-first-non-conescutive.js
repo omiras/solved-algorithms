@@ -1,4 +1,5 @@
 /**
+ URL del ejercicio: https://www.codewars.com/kata/58f8a3a27a5c28d92e000144
  * El Hosptial Clinic nos ha pedido un algoritmo para detectar cadenas defectuosas de ADN en los análisis. 
  * Se dice que una cadena de ADN es defectuosa si las proteinas que la forman, representadas por números enteros, no son consecutivas entre si.
 
