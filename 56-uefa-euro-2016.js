@@ -17,7 +17,7 @@ function uefaEuro2016(teams, scores) {
   } else if (scores[1]>scores[0]) {
     return 'At match ' + teams[0] + '-' + teams[1] + ', ' + teams[1] + ' won!';
   //si los goles del segundo equipo son mayores que los del primer equipo, diremos que ha ganado Italia.
-  } else if (scores[0] == scores[1]) {
+  } else {
     return 'At match ' + teams[0] + '-' + teams[1] + ', teams played draw';
   //si los goles del primer equipo son igual a los del segundo equipo, diremos que ha habido un empate.
   }
