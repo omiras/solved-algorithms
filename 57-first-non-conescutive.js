@@ -23,4 +23,4 @@ function firstNonConsecutive(arr) {
 
 console.log(firstNonConsecutive([1, 2, 3, 4, 6, 7, 8])); // 6
 console.log(firstNonConsecutive([1, 2, 3, 4])); // null (porque todos son consecutivos)
-console.log(firstNonConsecutive([-4, -3, -1])); // -1
+console.log(firstNonConsecutive([7, 8, 10])); // 10
