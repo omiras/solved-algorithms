@@ -53,13 +53,14 @@ Recently, it has been updated with the members of the team [Full Stack Altia](ht
 45. [Sum Mixed Array](https://www.codewars.com/kata/57eaeb9578748ff92a000009/)
 46. [Sum Mixed Array](https://www.codewars.com/kata/57eaeb9578748ff92a000009/)
 47. [Remove Chars](https://www.codewars.com/kata/56bc28ad5bdaeb48760009b0)
-48. [Total amount points 48](https://www.codewars.com/kata/5bb904724c47249b10000131) 
-49. [Bus station](https://www.codewars.com/kata/5648b12ce68d9daa6b000099) 
+48. [Total amount points 48](https://www.codewars.com/kata/5bb904724c47249b10000131)
+49. [Bus station](https://www.codewars.com/kata/5648b12ce68d9daa6b000099)
 50. [Small Enough](https://www.codewars.com/kata/57cc981a58da9e302a000214/)
 51. [The Groupon Code](https://www.codewars.com/kata/539de388a540db7fec000642)
 52. [To UpperCase](https://www.codewars.com/kata/57a0556c7cb1f31ab3000ad7)
 53. [x]()
 54. [Who is online](https://www.codewars.com/kata/5b6375f707a2664ada00002a)
+55. [Count by x](https://www.codewars.com/kata/5513795bd3fafb56c200049e/javascript)
 
 ## List of algorithms with TDD
 
@@ -86,6 +87,7 @@ Recently, it has been updated with the members of the team [Full Stack Altia](ht
 [Diego Lajusticia](https://github.com/diegolajus)  
 [Didac Pérez](https://github.com/didac3141592)  
 [Eduard Garcia](https://github.com/GoatBass/)  
+[Ester Fenero - 55](https://github.com/Ester-0)  
 [Fabian Taranto - 39](https://github.com/fataranto)  
 [Fran Ariño](https://github.com/fraanfx)  
 [Ignacio Spadavecchia - 21](https://github.com/Ignacio-Spadavecchia)
