@@ -86,7 +86,7 @@ Recently, it has been updated with the members of the team [Full Stack Altia](ht
 [David Pérez - 28](https://github.com/k87c)  
 [David Pérez Sanchez - 43](https://github.com/Davidps99)
 [Diego Lajusticia](https://github.com/diegolajus)  
-[Diego Mucci - 56](https://github.com/DMucci)
+[Diego Mucci - 56](https://github.com/DMucci)  
 [Didac Pérez](https://github.com/didac3141592)  
 [Eduard Garcia](https://github.com/GoatBass/)  
 [Ester Fenero - 55](https://github.com/Ester-0)  
