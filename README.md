@@ -62,6 +62,7 @@ Recently, it has been updated with the members of the team [Full Stack Altia](ht
 54. [Who is online](https://www.codewars.com/kata/5b6375f707a2664ada00002a)
 55. [Count by x](https://www.codewars.com/kata/5513795bd3fafb56c200049e/javascript)
 56. [Uefa Euro 2016](https://www.codewars.com/kata/57613fb1033d766171000d60)
+57. [First Non Consecutive]()
 
 ## List of algorithms with TDD
 
