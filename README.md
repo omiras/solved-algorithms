@@ -58,7 +58,7 @@ Recently, it has been updated with the members of the team [Full Stack Altia](ht
 50. [Small Enough](https://www.codewars.com/kata/57cc981a58da9e302a000214/)
 51. [The Groupon Code](https://www.codewars.com/kata/539de388a540db7fec000642)
 52. [To UpperCase](https://www.codewars.com/kata/57a0556c7cb1f31ab3000ad7)
-53. [Calcular nota tipo text]()
+53. [Calcular nota tipo test]()
 54. [Who is online](https://www.codewars.com/kata/5b6375f707a2664ada00002a)
 55. [Count by x](https://www.codewars.com/kata/5513795bd3fafb56c200049e/javascript)
 56. [Uefa Euro 2016](https://www.codewars.com/kata/57613fb1033d766171000d60)
