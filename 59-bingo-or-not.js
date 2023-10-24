@@ -9,8 +9,15 @@ Each number corresponds to their alphabetical order letter (e.g. 1 = A. 2 = B, e
 
 function bingo(numbers) {
   // your winning code here
+  const winningNumbers = [2, 9, 14, 7, 15];
+  for (let i = 0; i < winningNumbers.length; i++){
+    if (!numbers.includes(winningNumbers[i])){
+      return "LOSE";
+    }
+  }
+  return "WIN";
 }
 
 console.log(bingo([1, 2, 3, 4, 5, 6, 7, 8, 9, 10])); // "LOSE"
 console.log(bingo([21, 13, 2, 7, 5, 14, 7, 15, 9, 10])); // "WIN"
-console.log(bingo([21, 13, 1, 7, 5, 14, 7, 15, 9, 10])); // "LOSE"
+console.log(bingo([21, 13, 1, 7, 5, 14, 7, 15, 9, 10])); // "WIN" <---- ESTE DEBERIA SER LOSE
