@@ -4,11 +4,42 @@
  *
  * https://www.codewars.com/kata/570ca6a520c69f39dd0016d4/
  *
- *
+ * John reading a book, When he met a word that he had never read, he will read the word spelling, each letter(not for punctuation,number, only letter) takes 1 second; If he have read the word, he will read the word, each word takes 1 second.
+ * 
+ * Give you a parameter words(Each word is separated by space)
+ * 
+ * Return a number that how many seconds John can finish reading.
  */
 
+
 function sc(words) {
-  return 0;
+  // guardar palabras detectadas en un array
+  const readWords = [];
+
+  // controlar el tiempo
+  let totalTime = 0;
+
+  // detectar si el caracter es una letra porque si es numero o un signo de puntiación, no lo deletrea y pasarlo todo a minúsculas
+  // ASÍ NO FUNCIONA: const caractersToErase = /[\d\p{P}\p{S}]/u;
+  const caractersToErase = /[^a-z\s]/gi;
+  const onlyLetters = words.replace(caractersToErase, '').toLowerCase();
+  
+  // detectar cuando hay una palabra --> grupo de caracteres separados por un espacio ' '
+  const wordsFounded = onlyLetters.split(/\s+/);
+  
+  for (word of wordsFounded) {
+    // si conoce la palabra, tarda 1s en leerla
+    if (readWords.includes(word)) {
+      totalTime++;
+    } else {
+      // Si no conoce la palabra, tarda 1s por caracter porque la tiene que deletrear
+      totalTime += word.length;
+      // la añadimos al array de palabras leidas
+      readWords.push(word);
+    }
+  }
+  // devolver cuantos segundos tarda en leer el texto
+  return totalTime;
 }
 
 // Ambos console.log deben dar lo mismo

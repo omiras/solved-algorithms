@@ -63,6 +63,7 @@ Recently, it has been updated with the members of the team [Full Stack Altia](ht
 55. [Count by x](https://www.codewars.com/kata/5513795bd3fafb56c200049e/javascript)
 56. [Uefa Euro 2016](https://www.codewars.com/kata/57613fb1033d766171000d60)
 57. [First Non Consecutive](https://www.codewars.com/kata/58f8a3a27a5c28d92e000144)
+61. [Reading a Book](https://www.codewars.com/kata/570ca6a520c69f39dd0016d4/)
 
 ## List of algorithms with TDD
 
@@ -94,6 +95,7 @@ Recently, it has been updated with the members of the team [Full Stack Altia](ht
 [Ester Fenero - 55](https://github.com/Ester-0)  
 [Fabian Taranto - 39](https://github.com/fataranto)  
 [Fran Ariño](https://github.com/fraanfx)  
+[Galis Galisteo](https://github.com/GalisGalisteo)  
 [Ignacio Spadavecchia - 21](https://github.com/Ignacio-Spadavecchia)
 [Javier Aldana - 46](https://github.com/aldjavierdavid)  
 [Jonathan Ruiz Palacios - 48](https://github.com/Cynox336)
