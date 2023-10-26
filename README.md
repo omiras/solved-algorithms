@@ -58,10 +58,11 @@ Recently, it has been updated with the members of the team [Full Stack Altia](ht
 50. [Small Enough](https://www.codewars.com/kata/57cc981a58da9e302a000214/)
 51. [The Groupon Code](https://www.codewars.com/kata/539de388a540db7fec000642)
 52. [To UpperCase](https://www.codewars.com/kata/57a0556c7cb1f31ab3000ad7)
-53. [x]()
+53. [Calcular nota tipo test]()
 54. [Who is online](https://www.codewars.com/kata/5b6375f707a2664ada00002a)
 55. [Count by x](https://www.codewars.com/kata/5513795bd3fafb56c200049e/javascript)
 56. [Uefa Euro 2016](https://www.codewars.com/kata/57613fb1033d766171000d60)
+57. [First Non Consecutive](https://www.codewars.com/kata/58f8a3a27a5c28d92e000144)
 
 ## List of algorithms with TDD
 
@@ -71,7 +72,8 @@ Recently, it has been updated with the members of the team [Full Stack Altia](ht
 
 [Aarón Aira García - 31](https://github.com/aaronaira)  
 [Adrián González Filgueira - 29](https://github.com/AdrianGonzalezFilgueira)  
-[Alba Guzman -](https://github.com/aguzsol)
+[Alba Guzman -](https://github.com/aguzsol)  
+[Albertina - 53](https://github.com/albertina75)  
 [Aleix Aguilar - 51](https://github.com/aleixnit)
 [Angel Amado - 30](https://github.com/angel-amado)  
 [Ariel Neme - 23](https://github.com/ArielFabianN)  
@@ -107,6 +109,7 @@ Recently, it has been updated with the members of the team [Full Stack Altia](ht
 [Leonar Estupiñan -34](https://github.com/LeonarEQ)  
 [Lila Sarfson - 37](https://github.com/LilaSarfson)  
 [Marc Bellido](https://github.com/mbellydo)  
+[Maria Aranda](https://github.com/mariaarandam)
 [Maria Canals - 19](https://github.com/maria-canals)  
 [María Gabriela - 33](https://github.com/gabihersan988)  
 [Marcos Saucedo - 44](https://github.com/marcossadu)  
