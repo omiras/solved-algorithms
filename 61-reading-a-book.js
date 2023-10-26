@@ -27,7 +27,7 @@ function sc(words) {
   // detectar cuando hay una palabra --> grupo de caracteres separados por un espacio ' '
   const wordsFounded = onlyLetters.split(/\s+/);
   
-  for (word of wordsFounded) {
+  for (const word of wordsFounded) {
     // si conoce la palabra, tarda 1s en leerla
     if (readWords.includes(word)) {
       totalTime++;
