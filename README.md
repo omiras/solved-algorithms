@@ -114,7 +114,7 @@ Recently, it has been updated with the members of the team [Full Stack Altia](ht
 [Leonar Estupiñan -34](https://github.com/LeonarEQ)  
 [Lila Sarfson - 37](https://github.com/LilaSarfson)  
 [Marc Bellido](https://github.com/mbellydo)  
-[Maria Aranda - 57](https://github.com/mariaarandam)
+[Maria Aranda - 57](https://github.com/mariaarandam)  
 [Maria Canals - 19](https://github.com/maria-canals)  
 [María Gabriela - 33](https://github.com/gabihersan988)  
 [Marcos Saucedo - 44](https://github.com/marcossadu)  
