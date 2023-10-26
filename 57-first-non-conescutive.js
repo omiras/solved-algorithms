@@ -15,21 +15,22 @@ Nos aseguran también que cada array SOLAMENTE contiene un número descolocado, 
  * @param {array} arr Array de números 
  * @returns Devuelve un número o null
  */
+
 function firstNonConsecutive(arr) {
   let i = 1; //Inicio de la variable del contador
   let result = null;
 
-  while (i < arr.length) { //Recorremos el array de  números mientras se cumpla la condición
-  // Mientras no se llege al fin del array y no se encuentre un número no consecutivo, sigue ejecutando
+  while (i < arr.length && result == null) {
+    // mentre no hagi arribar al fi de l'array I no hagi trobat un número no consecutiu, tinc feina
+    //Recorremos el array de  números mientras se cumpla la condición
 
-  // while (i < arr.length && result == null) //Opción B: Ejecuta hasta que se cumpla la condición
-    
-    if ((arr[i] - arr[i - 1]) !== 1) { //Comprobamos si el número actual y el número anterior no se incrementan en 1  
-      result = arr[i] //Si se cumple, mostramos el número
+    if (arr[i] - arr[i - 1] !== 1) {
+      //Comprobamos si el número actual y el número anterior no se incrementan en 1
+      result = arr[i]; //Si se cumple, mostramos el número
     }
-    i++; //Si el siguiente número se incrementa en 1, incrementamos el valor de la i, y volemos a iniciar el bucle
+    i++;
   }
-  
+
   return result; //Si al recorrer todo el array, se cumple mostramos null
 }
 
