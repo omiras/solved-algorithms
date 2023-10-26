@@ -63,6 +63,8 @@ Recently, it has been updated with the members of the team [Full Stack Altia](ht
 55. [Count by x](https://www.codewars.com/kata/5513795bd3fafb56c200049e/javascript)
 56. [Uefa Euro 2016](https://www.codewars.com/kata/57613fb1033d766171000d60)
 57. [First Non Consecutive](https://www.codewars.com/kata/58f8a3a27a5c28d92e000144)  
+58. [Uppercase]()
+59. [Bingo or Not](https://www.codewars.com/kata/5a1ee4dfffe75f0fcb000145)
 60. [Will You Survive to Zombies](https://www.codewars.com/kata/5deeb1cc0d5bc9000f70aa74)
 61. [Reading a Book](https://www.codewars.com/kata/570ca6a520c69f39dd0016d4/)
 
@@ -122,6 +124,7 @@ Recently, it has been updated with the members of the team [Full Stack Altia](ht
 [Nordin M'hamed - 50](https://github.com/NordinMM)  
 [Paula Iglesias Amigo - 32](https://github.com/PaULah88)  
 [Ricardo Churrión - 20](https://github.com/rachurion)  
+[Oriol Botella - 59](https://github.com/OriolB-Uri)
 [Oscar Farré](https://github.com/wildkur)
 [Oscar Miras](https://github.com/omiras)
 [Pedro Ninci](https://github.com/pppeedrito)  
