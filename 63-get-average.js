@@ -22,4 +22,5 @@ function getAverage(marks) {
 
 console.log(getAverage[2, 2, 2, 2]); // Debería devolver un 2
 console.log(getAverage([1, 2, 3, 4, 5])); // Debería devolver un 3
-console.log(getAverage([5, 5, 5, 5])); // Debería devolver un 5
+console.log(getAverage([5])); // Debería devolver un 5
+console.log(getAverage([12, 17, 4, 12, 2, 2, 16, 12, 2, 11, 16, 5, 20])); // Debería devolver un 10
