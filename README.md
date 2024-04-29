@@ -67,6 +67,7 @@ Recently, it has been updated with the members of the team [Full Stack Altia](ht
 59. [Bingo or Not](https://www.codewars.com/kata/5a1ee4dfffe75f0fcb000145)
 60. [Will You Survive to Zombies](https://www.codewars.com/kata/5deeb1cc0d5bc9000f70aa74)
 61. [Reading a Book](https://www.codewars.com/kata/570ca6a520c69f39dd0016d4/)
+62. [Get average](https://www.codewars.com/kata/563e320cee5dddcf77000158)
 
 
 ## List of algorithms with TDD
@@ -135,3 +136,4 @@ Recently, it has been updated with the members of the team [Full Stack Altia](ht
 [Vanessa Collazos-25](https://github.com/vcollazos)  
 [Víctor Cabello-35](https://github.com/VCabelloDel)  
 [Xiande Qiu](https://github.com/Xiande-zx)  
+[Balam Castro](https://github.com/ekbalam11)

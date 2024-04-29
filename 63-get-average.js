@@ -21,15 +21,15 @@ function getAverage(marks) {
         result += marks[i]; //No estaba entendiendo como hacer que a cada iteración se sumara el resultado anterior, hasta que encontré el operador de "asignación de adición" y recordé el consejo de Esteban de pensar en la variable "i" como índice. 
     } 
 
-    //Create a variable that includes the operation needed to get the average (dividing the sum between the array lenght)
+    //Create a variable that includes the operation needed to get the average (dividing the sum between the array lenght). *Intenté usar el operador de asignación de división para no crear una variable nueva, pero no se me ocurrió como...
     const average = result / marks.length;
     //Cuando 
 
     //BONUS: Math.floor() rounds down and return the largest integer less than or equal to a given number
     return Math.floor(average);
 
-}
 
+}
 
 console.log(getAverage([2, 2, 4, 2])); // Debería devolver un 2
 //Parentheses were missing, therefore the function was undefined
