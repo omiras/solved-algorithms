@@ -13,10 +13,24 @@
  * 
  */
 
+//Hay que comprobar si cada posición i del string dado s (bucle for) contiene un código correcto de color. 
+
 function printerError(s) {
-    // your code
+    // Variables
+    let correctCode = "abcdefghijklm";
+    let countErrors = 0;
     let errors = "";
 
+    //1) Recorremos string s
+    for (let i = 0; i<s.length; i++){
+        //2) Ver si valor cada posición de s está en countCode (como solo interesa saber si está o no - booleano (includes)) - op2: bucle for anidado
+        if (!correctCode.includes(s[i])){
+            //3) Si no está, sumamos un error
+            countErrors++;
+        }
+    }
+    //4) Creamos valor de errors commo string
+    errors = `${countErrors}/${s.length}`;
     return errors;
 }
 
