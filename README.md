@@ -84,6 +84,7 @@ Recently, it has been updated with the members of the team [Full Stack Altia](ht
 [Angel Amado - 30](https://github.com/angel-amado)  
 [Ariel Neme - 23](https://github.com/ArielFabianN)    
 [Arnau Mas - 22](https://github.com/Arnau-Mas)  
+[Balam Castro - 62](https://github.com/ekbalam11)
 [Carlos Marruedo - 15](https://github.com/CarlosMarruedo)  
 [Carolina Lisa-41](https://github.com/lisis/)  
 [Claudia Ballano - 16](https://github.com/claudiaballano)  
@@ -136,4 +137,3 @@ Recently, it has been updated with the members of the team [Full Stack Altia](ht
 [Vanessa Collazos-25](https://github.com/vcollazos)  
 [Víctor Cabello-35](https://github.com/VCabelloDel)  
 [Xiande Qiu](https://github.com/Xiande-zx)  
-[Balam Castro](https://github.com/ekbalam11)
