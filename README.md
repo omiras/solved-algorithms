@@ -69,7 +69,7 @@ Recently, it has been updated with the members of the team [Full Stack Altia](ht
 61. [Reading a Book](https://www.codewars.com/kata/570ca6a520c69f39dd0016d4/)
 62. [Get average](https://www.codewars.com/kata/563e320cee5dddcf77000158)
 63. [Print errors](https://www.codewars.com/kata/56541980fa08ab47a0000040/)  
-64. 
+64. [Highest scoring word](https://www.codewars.com/kata/57eb8fcdf670e99d9b000272)
 
 
 ## List of algorithms with TDD
@@ -99,7 +99,8 @@ Recently, it has been updated with the members of the team [Full Stack Altia](ht
 [Diego Lajusticia](https://github.com/diegolajus)  
 [Diego Mucci - 56](https://github.com/DMucci)  
 [Didac Pérez](https://github.com/didac3141592)  
-[Eduard Garcia](https://github.com/GoatBass/)  
+[Eduard Garcia](https://github.com/GoatBass/)
+[Esteban Piliponky - 64](https://github.com/epili50)  
 [Ester Fenero - 55](https://github.com/Ester-0)  
 [Fabian Taranto - 39](https://github.com/fataranto)  
 [Fran Ariño](https://github.com/fraanfx)    
