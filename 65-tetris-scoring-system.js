@@ -5,28 +5,68 @@
  */
 
 function getScore(arr) {
-    // your code here
+	//Declaramos variable total para guardar puntos totales
+	let totalScore = 0;
+
+	/* const baseScores = [40, 100, 300, 1200]; */
+
+
+	// variable con puntos bacicos de nivel 0. Acignamos a este variable un array con puntos basicos para cantitad de lineas vasiados( en este caso cantidad de lineas mismo con indise de array )
+	const baseScores = [0, 40, 100, 300, 1200];
+
+
+	//Declaramos variable para guradar cantidad de lineas vaciadas
+	let totalLinesCleared = 0;
+
+	//con ciclo for itteramos nuestro array con lineas vasiados
+	for (let i = 0; i < arr.length; i++) {
+
+
+		// Asignmamos un variable con cantidad de lineas que usuario ha vaciado en  "turno" 
+		let linesCleared = arr[i];
+
+
+		//variable con nivel de juego, que calculamos con metodo "Math.floor"(incrementamos nivel a 1 cada 10 lineas vasiadas)
+		let level = Math.floor(totalLinesCleared / 10);
+
+		//Calculamos puntos si eran lineas vasiadas. A puntos totales sumamos derivado de puntos basicos y nivel de juego
+		if (linesCleared > 0 && linesCleared < baseScores.length) {
+
+			/* 		totalScore += baseScores[linesCleared - 1] * (level + 1); */
+
+			totalScore += baseScores[linesCleared] * (level + 1);
+		}
+
+		//Calculo de lineas vaciadas totales
+		totalLinesCleared += linesCleared;
+	}
+
+	//retornamos puntos totales
+	return totalScore;
+
+
+	// your code here
 }
 console.log(getScore([0, 1, 2, 3, 4])); // Valor esperado: 1640
 console.log(getScore([0, 1, 1, 3, 0, 2, 1, 2])); // Valor esperado: 620
 console.log(getScore([2, 0, 4, 2, 2, 3, 0, 0, 3, 3])); // Valor esperado: 3300
 console.log(getScore([0])); // Valor esperado: 0
-console.log(getScore([])); // Valor esperado: 0
+console.log(getScore([])); // Valor esperado: 0 
 /**
  * 
  * PISTAS: NO MIRAR HASTA ESTAR ENCALLADO
  * 
-➖➖➖➖➖➖➖🟦🟦➖
-➖➖➖➖➖➖➖🟦➖➖
-➖➖➖➖➖➖➖🟦➖➖
-➖➖➖➖➖➖➖➖➖➖
-➖➖🟩🟩➖🟧➖➖➖➖
-➖🟩🟩🟧🟧🟧➖➖➖➖
-➖🟪🟪🟪🟦🟦🟦➖➖➖
-🟨🟨🟪🟪🟥🟥🟦➖🟨🟨
-🟨🟨🟪🟪🟪🟥🟥➖🟨🟨
-⬜️⬜️⬜️⬜️⬜️⬜️⬜️⬜️⬜️⬜️
-⬜️⬜️⬜️⬜️⬜️⬜️⬜️⬜️⬜️⬜️
+*➖➖➖➖➖➖➖🟦🟦➖
+*➖➖➖➖➖➖➖🟦➖➖
+*➖➖➖➖➖➖➖🟦➖➖
+*➖➖➖➖➖➖➖➖➖➖
+*➖➖🟩🟩➖🟧➖➖➖➖
+*➖🟩🟩🟧🟧🟧➖➖➖➖
+*➖🟪🟪🟪🟦🟦🟦➖➖➖
+*🟨🟨🟪🟪🟥🟥🟦➖🟨🟨
+*🟨🟨🟪🟪🟪🟥🟥➖🟨🟨
+*⬜️⬜️⬜️⬜️⬜️⬜️⬜️⬜️⬜️⬜️
+*⬜️⬜️⬜️⬜️⬜️⬜️⬜️⬜️⬜️⬜️*
  * 
  * 
  * 0. Implementa primero el algoritmo sin tener en cuenta el nivel del juego. De esta manera, debería funcionarte la suma para las dos primeras llamadas a la función
