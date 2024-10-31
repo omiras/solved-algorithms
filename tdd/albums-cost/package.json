@@ -1,15 +1,20 @@
 {
-  "name": "albums-cost",
+  "name": "tdd",
   "version": "1.0.0",
   "description": "",
   "main": "index.js",
   "scripts": {
-    "test": "jest"
+    "test": "jest",
+    "test:coverage": "jest --coverage",
+    "doc": "jsdoc jsdoc.json"
   },
   "keywords": [],
-  "author": "",
+  "author": "Lorena Criado",
   "license": "ISC",
   "dependencies": {
     "jest": "^29.7.0"
+  },
+  "devDependencies": {
+    "jsdoc": "^4.0.4"
   }
 }
