@@ -1,7 +1,7 @@
 // URL: https://www.codewars.com/kata/54bf1c2cd5b56cc47f0007a1
 
 function duplicateCount(text){
-    /** Reescribe con tus palabras y con pseudocódigo qué hay que hacer aquí.  */
+    /** Por favor, no uses estructuras o herramientas que no hemos visto en clase  */
 }
 
 console.log(duplicateCount("abcde")); // 0
