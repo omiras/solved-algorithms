@@ -2,6 +2,20 @@
 
 function duplicateCount(text){
     /** Por favor, no uses estructuras o herramientas que no hemos visto en clase  */
+    text = text.toUpperCase();
+    let count = 0;
+    let lista = [];
+    let listarepes = []
+    for (letra of text) {
+        if (!lista.includes(letra)) {
+            lista.push(letra);
+        }
+        else if (lista.includes(letra) && !listarepes.includes(letra)) {
+            count++;
+            listarepes.push(letra)
+        }
+    }
+    return count;
 }
 
 console.log(duplicateCount("abcde")); // 0
@@ -15,3 +29,4 @@ console.log(duplicateCount("mississippi")); // 3 ('i', 's' y 'p')
 console.log(duplicateCount("1122334455")); // 5 ('1', '2', '3', '4', '5')
 console.log(duplicateCount("abcdefghijklmnopqrstuvwxyz")); // 0 (sin repetidos)
 console.log(duplicateCount("aAbBcCdD")); // 4 ('a', 'b', 'c', 'd')
+

@@ -2,6 +2,21 @@
 
 function nicknameGenerator(name){
     /** Por favor, no uses estructuras o herramientas que no hemos visto en clase  */
+    let result = "";
+    if (name.length < 4) {
+        return "Error:Name too short";
+    }
+    else {
+        let i = 0;
+        while (i < 3) {
+            result += name[i];
+            i++;
+        }
+        if ("aeiou".includes(name[2])) {
+            result += name[3];
+        }
+        return result;
+    }
 }
 
 console.log(nicknameGenerator("Robert")); // "Rob"
