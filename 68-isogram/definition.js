@@ -1,6 +1,6 @@
 
 // Lee el enunciado del siguiente algoritmo. 
-// URL: https://www.codewars.com/kata/5266876b8f4bf2da9b000362
+// URL:https://www.codewars.com/kata/54ba84be607a92aa900000f1
 
 
 function isIsogram(str){
