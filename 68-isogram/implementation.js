@@ -4,6 +4,8 @@
 
 function isIsogram(str){
     /** Recuerda que si usas estructuras o herramientas que no hemso visto en clase es posible que tus compañeros y compañeras te pregunten por ellas :) */
+
+    // Bli Blu
 }
 
 console.log(isIsogram("Dermatoglyphics")); // true
