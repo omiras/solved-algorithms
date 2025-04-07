@@ -70,8 +70,8 @@ Recently, it has been updated with the members of the team [Full Stack Altia](ht
 62. [Get average](https://www.codewars.com/kata/563e320cee5dddcf77000158)
 63. [Print errors](https://www.codewars.com/kata/56541980fa08ab47a0000040/)
 64. [Highest scoring word](https://www.codewars.com/kata/57eb8fcdf670e99d9b000272)
-65. [tetris-scoring-sistem](https://www.codewars.com/kata/5da9af1142d7910001815d32)
-
+65. [tetris-scoring-sistem](https://www.codewars.com/kata/5da9af1142d7910001815d32)  
+69. [Who-likes-it] (https://www.codewars.com/kata/5266876b8f4bf2da9b000362)  
 ## List of algorithms with TDD
 
 1. [Reversed Words](https://www.codewars.com/kata/51c8991dee245d7ddf00000e)
@@ -137,7 +137,8 @@ Recently, it has been updated with the members of the team [Full Stack Altia](ht
 [Oscar Miras](https://github.com/omiras)  
 [Pedro Ninci](https://github.com/pppeedrito)  
 [Sara Rodríguez - 40](https://github.com/SaraaLee)  
-[Sergi Justiniano](https://github.com/homell100)  
+[Sergi Justiniano](https://github.com/homell100)    
+[Sergio Calvo] (https://github.com/SergioCaMi)  
 [Silvia Gutierrez](https://github.com/silviagb2)  
 [Samaneh Bahramian-49](https://github.com/samane6866)  
 [Vanessa Collazos-25](https://github.com/vcollazos)  
