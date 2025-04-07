@@ -72,11 +72,10 @@ Recently, it has been updated with the members of the team [Full Stack Altia](ht
 64. [Highest scoring word](https://www.codewars.com/kata/57eb8fcdf670e99d9b000272)
 <<<<<<< HEAD
 65. [tetris-scoring-sistem](https://www.codewars.com/kata/5da9af1142d7910001815d32)  
-69. [Who-likes-it] (https://www.codewars.com/kata/5266876b8f4bf2da9b000362)  
 =======
 65. [tetris-scoring-sistem](https://www.codewars.com/kata/5da9af1142d7910001815d32)
 68. [isogram](https://www.codewars.com/kata/54bf1c2cd5b56cc47f0007a1)
-
+69. [Who-likes-it] (https://www.codewars.com/kata/5266876b8f4bf2da9b000362)  
 >>>>>>> bb52581ffb2ddb51a7c1f0ffeec5c22c8f9474a5
 ## List of algorithms with TDD
 
