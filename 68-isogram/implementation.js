@@ -13,7 +13,7 @@ function isIsogram(str) {
         for (let j = 0; j < str.length; j++) { //Recorre el string
             if (str[j] === char) { 
                 contador++; } //Suma uno al contador
-            if (contador >= 2) {
+            if (contador == 2) {
                 return false; 
             }
 

@@ -1,6 +1,7 @@
 
 // Lee el enunciado del siguiente algoritmo. 
 // URL:https://www.codewars.com/kata/54ba84be607a92aa900000f1
+
 // An isogram is a word that has no repeating letters, consecutive or non-consecutive. Implement a function that determines whether a string 
 // that contains only letters is an isogram. Assume the empty string is an isogram. Ignore letter case.
 
@@ -28,6 +29,9 @@ function isIsogram(str){
 //    let contador = 0;
 
 //for (let j = 0; j < str.length; j++) { //Recorre el string
+// i selecciona cada carácter de la cadena uno por uno.
+
+// j recorre toda la cadena para contar cuántas veces aparece ese carácter.
 }
 
 console.log(isIsogram("Dermatoglyphics")); // true
