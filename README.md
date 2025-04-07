@@ -70,8 +70,14 @@ Recently, it has been updated with the members of the team [Full Stack Altia](ht
 62. [Get average](https://www.codewars.com/kata/563e320cee5dddcf77000158)
 63. [Print errors](https://www.codewars.com/kata/56541980fa08ab47a0000040/)
 64. [Highest scoring word](https://www.codewars.com/kata/57eb8fcdf670e99d9b000272)
+<<<<<<< HEAD
 65. [tetris-scoring-sistem](https://www.codewars.com/kata/5da9af1142d7910001815d32)  
 69. [Who-likes-it] (https://www.codewars.com/kata/5266876b8f4bf2da9b000362)  
+=======
+65. [tetris-scoring-sistem](https://www.codewars.com/kata/5da9af1142d7910001815d32)
+68. [isogram](https://www.codewars.com/kata/54bf1c2cd5b56cc47f0007a1)
+
+>>>>>>> bb52581ffb2ddb51a7c1f0ffeec5c22c8f9474a5
 ## List of algorithms with TDD
 
 1. [Reversed Words](https://www.codewars.com/kata/51c8991dee245d7ddf00000e)
@@ -83,7 +89,8 @@ Recently, it has been updated with the members of the team [Full Stack Altia](ht
 [Adrián González Filgueira - 29](https://github.com/AdrianGonzalezFilgueira)  
 [Alba Guzman -](https://github.com/aguzsol)  
 [Albertina - 53](https://github.com/albertina75)  
-[Aleix Aguilar - 51](https://github.com/aleixnit)
+[Aleix Aguilar - 51](https://github.com/aleixnit)  
+[Alejandro Noriega - 68](https://github.com/alenorgue)  
 [Andrii Sharmar 65](https://github.com/SharmarAndrey)  
 [Angel Amado - 30](https://github.com/angel-amado)  
 [Ariel Neme - 23](https://github.com/ArielFabianN)  
