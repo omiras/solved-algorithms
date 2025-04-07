@@ -71,6 +71,7 @@ Recently, it has been updated with the members of the team [Full Stack Altia](ht
 63. [Print errors](https://www.codewars.com/kata/56541980fa08ab47a0000040/)
 64. [Highest scoring word](https://www.codewars.com/kata/57eb8fcdf670e99d9b000272)
 65. [tetris-scoring-sistem](https://www.codewars.com/kata/5da9af1142d7910001815d32)
+68. [isogram](https://www.codewars.com/kata/54bf1c2cd5b56cc47f0007a1)
 
 ## List of algorithms with TDD
 
@@ -84,6 +85,7 @@ Recently, it has been updated with the members of the team [Full Stack Altia](ht
 [Alba Guzman -](https://github.com/aguzsol)  
 [Albertina - 53](https://github.com/albertina75)  
 [Aleix Aguilar - 51](https://github.com/aleixnit)
+[Alejandro Noriega - 68](https://github.com/alenorgue)
 [Andrii Sharmar 65](https://github.com/SharmarAndrey)  
 [Angel Amado - 30](https://github.com/angel-amado)  
 [Ariel Neme - 23](https://github.com/ArielFabianN)  
