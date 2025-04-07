@@ -34,6 +34,21 @@ console.log(likes(["Alex", "Jacob", "Mark", "Max", "Jhon", "Michael"])); // "Ale
 
 
 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 // function likes(names) {
 //   return names.length == 0 ? "no one likes this" :
 //   names.length == 1 ? `${names[0]} likes this` :
