@@ -1,5 +1,5 @@
 // Lee el enunciado del siguiente algoritmo. 
-// URL: https://www.codewars.com/kata/55908aad6620c066bc00002a - Kyu 7
+// URL: https://www.codewars.com/kata/55908aad6620c066bc00002a - Kyu 6
 
 
 function XO(str) {
