@@ -17,7 +17,7 @@ function XO(str) {
      * 
      * Si el índice de la cadena de texto se corresponde con una "x", la variable que cuente las "x" augmentará en 1 su valor, y lo mismo para la "o". Entonces, habrá que crear una estructura condicional dentro del bucle, con un "if" y un "else if". 
      * 
-     * La función tiene que retornar si el contadorX y el contadorO  iguales. Sino lo son, retornará false. Además, si la string no contiene ninguna de estas dos letras, la respuesta será true porque 0 es igual a 0.
+     * La función tiene que retornar si el contadorX y el contadorO  iguales. Si no lo son, retornará false. Además, si la string no contiene ninguna de estas dos letras, la respuesta será true porque 0 es igual a 0.
     */
 }
 
