@@ -135,7 +135,7 @@ Recently, it has been updated with the members of the team [Full Stack Altia](ht
 [MCarmen Martínez -54](https://github.com/McMartinezc)  
 [Nordin M'hamed - 50](https://github.com/NordinMM)  
 [Paula Iglesias Amigo - 32](https://github.com/PaULah88)  
-[Ricardo Churrión - 20](https://github.com/rachurion)
+[Ricardo Churrión - 20](https://github.com/rachurion)  
 [Robert Maynou - 70](https://github.com/ErebosXYZ)  
 [Oriol Botella - 59](https://github.com/OriolB-Uri)  
 [Oscar Farré](https://github.com/wildkur)  
