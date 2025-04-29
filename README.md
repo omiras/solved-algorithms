@@ -73,6 +73,7 @@ Recently, it has been updated with the members of the team [Full Stack Altia](ht
 65. [tetris-scoring-sistem](https://www.codewars.com/kata/5da9af1142d7910001815d32)
 68. [isogram](https://www.codewars.com/kata/54bf1c2cd5b56cc47f0007a1)  
 69. [who-likes-it] (https://www.codewars.com/kata/5266876b8f4bf2da9b000362/)
+70. [exes-and-ohs] (https://www.codewars.com/kata/55908aad6620c066bc00002a)
 
 ## List of algorithms with TDD
 
@@ -135,6 +136,7 @@ Recently, it has been updated with the members of the team [Full Stack Altia](ht
 [Nordin M'hamed - 50](https://github.com/NordinMM)  
 [Paula Iglesias Amigo - 32](https://github.com/PaULah88)  
 [Ricardo Churrión - 20](https://github.com/rachurion)  
+[Robert Maynou - 70](https://github.com/ErebosXYZ)  
 [Oriol Botella - 59](https://github.com/OriolB-Uri)  
 [Oscar Farré](https://github.com/wildkur)  
 [Oscar Miras](https://github.com/omiras)  
