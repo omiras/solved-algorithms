@@ -41,3 +41,4 @@ console.log(duplicateCount("mississippi")); // 3 ('i', 's' y 'p')
 console.log(duplicateCount("1122334455")); // 5 ('1', '2', '3', '4', '5')
 console.log(duplicateCount("abcdefghijklmnopqrstuvwxyz")); // 0 (sin repetidos)
 console.log(duplicateCount("aAbBcCdD")); // 4 ('a', 'b', 'c', 'd')
+
